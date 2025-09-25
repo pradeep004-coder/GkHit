@@ -1,0 +1,3503 @@
+[
+  {
+    "index": 1,
+    "question": "Which particle is responsible for mediating the electromagnetic force?",
+    "options": ["Photon", "Electron", "Neutrino", "Gluon"],
+    "answer": "Photon",
+    "category": "Science and Technology"
+  },
+  {
+    "index": 2,
+    "question": "In computer science, what does HTTP stand for?",
+    "options": ["Hypertext Transfer Protocol", "High Tech Transfer Protocol", "Hyperlink Text Program", "Host Transfer Process"],
+    "answer": "Hypertext Transfer Protocol",
+    "category": "Computer Science"
+  },
+  {
+    "index": 3,
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "answer": "Nitrogen",
+    "category": "Science and Technology"
+  },
+  {
+    "index": 4,
+    "question": "Which data structure follows the First-In-First-Out principle?",
+    "options": ["Queue", "Stack", "Tree", "Heap"],
+    "answer": "Queue",
+    "category": "Computer Science"
+  },
+  {
+    "index": 5,
+    "question": "Which programming language is known as the backbone of web development?",
+    "options": ["JavaScript", "Python", "C++", "Ruby"],
+    "answer": "JavaScript",
+    "category": "Computer Science"
+  },
+  {
+    "index": 6,
+    "question": "What is the process by which plants convert sunlight into chemical energy?",
+    "options": ["Respiration", "Transpiration", "Photosynthesis", "Fermentation"],
+    "answer": "Photosynthesis",
+    "category": "Biology"
+  },
+  {
+    "index": 7,
+    "question": "Which number system is the basis of all modern digital computers?",
+    "options": ["Binary", "Decimal", "Octal", "Hexadecimal"],
+    "answer": "Binary",
+    "category": "Computer Science"
+  },
+  {
+    "index": 8,
+    "question": "Which force keeps planets in orbit around the Sun?",
+    "options": ["Electromagnetic Force", "Nuclear Force", "Gravitational Force", "Friction"],
+    "answer": "Gravitational Force",
+    "category": "Physics"
+  },
+  {
+    "index": 9,
+    "question": "In object-oriented programming, which keyword is used to create an object in Java?",
+    "options": ["make", "construct", "create", "new"],
+    "answer": "new",
+    "category": "Computer Science"
+  },
+  {
+    "index": 10,
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "answer": "Diamond",
+    "category": "Science and Technology"
+  },
+  {
+    "index": 11,
+    "question": "Which scientist developed the theory of general relativity?",
+    "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Niels Bohr"],
+    "answer": "Albert Einstein",
+    "category": "Physics"
+  },
+  {
+    "index": 12,
+    "question": "Which element is represented by the symbol 'Au' on the periodic table?",
+    "options": ["Silver", "Gold", "Aluminum", "Argon"],
+    "answer": "Gold",
+    "category": "Chemistry"
+  },
+  {
+    "index": 13,
+    "question": "Which protocol is used to securely browse websites via encryption?",
+    "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
+    "answer": "HTTPS",
+    "category": "Computer Science"
+  },
+  {
+    "index": 14,
+    "question": "In mathematics, what is the value of π (pi) to two decimal places?",
+    "options": ["3.14", "3.13", "3.15", "3.16"],
+    "answer": "3.14",
+    "category": "Mathematics"
+  },
+  {
+    "index": 15,
+    "question": "Which programming concept uses classes and objects?",
+    "options": ["Functional Programming", "Object-Oriented Programming", "Procedural Programming", "Declarative Programming"],
+    "answer": "Object-Oriented Programming",
+    "category": "Computer Science"
+  },
+  {
+    "index": 16,
+    "question": "Which type of blood cells help fight infections in the human body?",
+    "options": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma"],
+    "answer": "White Blood Cells",
+    "category": "Biology"
+  },
+  {
+    "index": 17,
+    "question": "Which company developed the Windows operating system?",
+    "options": ["Apple", "Google", "Microsoft", "IBM"],
+    "answer": "Microsoft",
+    "category": "Technology"
+  },
+  {
+    "index": 18,
+    "question": "What does the acronym URL stand for?",
+    "options": ["Uniform Resource Locator", "Universal Reference Link", "User Resource Locator", "Unified Routing Link"],
+    "answer": "Uniform Resource Locator",
+    "category": "Computer Science"
+  },
+  {
+    "index": 19,
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Iron", "Copper", "Sodium"],
+    "answer": "Mercury",
+    "category": "Chemistry"
+  },
+  {
+    "index": 20,
+    "question": "What organ in the human body is responsible for filtering blood?",
+    "options": ["Heart", "Lungs", "Kidneys", "Liver"],
+    "answer": "Kidneys",
+    "category": "Biology"
+  },
+  {
+    "index": 21,
+    "question": "What is the smallest unit of data in computing?",
+    "options": ["Byte", "Bit", "Nibble", "Word"],
+    "answer": "Bit",
+    "category": "Computer Science"
+  },
+  {
+    "index": 22,
+    "question": "Which scientist is considered the father of modern physics?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "James Clerk Maxwell"],
+    "answer": "Isaac Newton",
+    "category": "Physics"
+  },
+  {
+    "index": 23,
+    "question": "Which natural satellite orbits the Earth?",
+    "options": ["Europa", "Moon", "Phobos", "Titan"],
+    "answer": "Moon",
+    "category": "Astronomy"
+  },
+  {
+    "index": 24,
+    "question": "In databases, what does SQL stand for?",
+    "options": ["Structured Query Language", "Simple questionion Logic", "Standard Query Locator", "Systematic Query Language"],
+    "answer": "Structured Query Language",
+    "category": "Computer Science"
+  },
+  {
+    "index": 25,
+    "question": "Which vitamin is produced when human skin is exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D",
+    "category": "Biology"
+  },
+  {
+    "index": 26,
+    "question": "Which element is essential for the production of hemoglobin?",
+    "options": ["Calcium", "Iron", "Potassium", "Zinc"],
+    "answer": "Iron",
+    "category": "Biology"
+  },
+  {
+    "index": 27,
+    "question": "Which programming language was developed by Guido van Rossum?",
+    "options": ["C++", "Java", "Python", "Ruby"],
+    "answer": "Python",
+    "category": "Computer Science"
+  },
+  {
+    "index": 28,
+    "question": "Which gas do humans exhale during respiration?",
+    "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+    "answer": "Carbon Dioxide",
+    "category": "Biology"
+  },
+  {
+    "index": 29,
+    "question": "Which is the largest planet in the solar system?",
+    "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "answer": "Jupiter",
+    "category": "Astronomy"
+  },
+  {
+    "index": 30,
+    "question": "What does RAM stand for in computing?",
+    "options": ["Random Access Memory", "Read After Memory", "Read-Only Memory", "Rapid Access Mode"],
+    "answer": "Random Access Memory",
+    "category": "Computer Science"
+  },
+  {
+    "index": 31,
+    "question": "Which branch of mathematics deals with shapes, sizes, and properties of figures?",
+    "options": ["Algebra", "Geometry", "Trigonometry", "Calculus"],
+    "answer": "Geometry",
+    "category": "Mathematics"
+  },
+  {
+    "index": 32,
+    "question": "What is the SI unit of force?",
+    "options": ["Joule", "Pascal", "Newton", "Watt"],
+    "answer": "Newton",
+    "category": "Physics"
+  },
+  {
+    "index": 33,
+    "question": "Which network device connects multiple networks together?",
+    "options": ["Switch", "Router", "Hub", "Repeater"],
+    "answer": "Router",
+    "category": "Computer Networking"
+  },
+  {
+    "index": 34,
+    "question": "Which blood type is known as the universal donor?",
+    "options": ["O-", "AB+", "B+", "A+"],
+    "answer": "O-",
+    "category": "Biology"
+  },
+  {
+    "index": 35,
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": ["Barometer", "Thermometer", "Hygrometer", "Altimeter"],
+    "answer": "Barometer",
+    "category": "Physics"
+  },
+  {
+    "index": 36,
+    "question": "Which is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+    "answer": "Mitochondria",
+    "category": "Biology"
+  },
+  {
+    "index": 37,
+    "question": "In computing, what number system uses base 16?",
+    "options": ["Binary", "Decimal", "Octal", "Hexadecimal"],
+    "answer": "Hexadecimal",
+    "category": "Computer Science"
+  },
+  {
+    "index": 38,
+    "question": "Which scientist proposed the laws of motion?",
+    "options": ["Einstein", "Newton", "Kepler", "Galileo"],
+    "answer": "Newton",
+    "category": "Physics"
+  },
+  {
+    "index": 39,
+    "question": "What is the chemical formula for water?",
+    "options": ["H2O", "CO2", "O2", "H2SO4"],
+    "answer": "H2O",
+    "category": "Chemistry"
+  },
+  {
+    "index": 40,
+    "question": "Which device is used to amplify sound?",
+    "options": ["Amplifier", "Speaker", "Microphone", "Transducer"],
+    "answer": "Amplifier",
+    "category": "Technology"
+  },
+  {
+    "index": 41,
+    "question": "Which gas is essential for photosynthesis?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Helium"],
+    "answer": "Carbon Dioxide",
+    "category": "Biology"
+  },
+  {
+    "index": 42,
+    "question": "What does IP stand for in networking?",
+    "options": ["Internet Protocol", "Internal Packet", "Integrated Processing", "Information Path"],
+    "answer": "Internet Protocol",
+    "category": "Computer Networking"
+  },
+  {
+    "index": 43,
+    "question": "Who is known as the 'Father of the Computer'?",
+    "options": ["Alan Turing", "Charles Babbage", "John von Neumann", "Bill Gates"],
+    "answer": "Charles Babbage",
+    "category": "Computer Science"
+  },
+  {
+    "index": 44,
+    "question": "Which gas is commonly known as laughing gas?",
+    "options": ["Oxygen", "Nitrogen", "Nitrous Oxide", "Carbon Dioxide"],
+    "answer": "Nitrous Oxide",
+    "category": "Chemistry"
+  },
+  {
+    "index": 45,
+    "question": "Which part of the plant carries out photosynthesis?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "answer": "Leaf",
+    "category": "Biology"
+  },
+  {
+    "index": 46,
+    "question": "In computing, which gate gives an output of true only if both inputs are true?",
+    "options": ["OR", "NOR", "AND", "XOR"],
+    "answer": "AND",
+    "category": "Computer Science"
+  },
+  {
+    "index": 47,
+    "question": "Which branch of science studies celestial bodies?",
+    "options": ["Astronomy", "Geology", "Biology", "Chemistry"],
+    "answer": "Astronomy",
+    "category": "Astronomy"
+  },
+  {
+    "index": 48,
+    "question": "Which is the fastest land animal?",
+    "options": ["Cheetah", "Horse", "Lion", "Leopard"],
+    "answer": "Cheetah",
+    "category": "Biology"
+  },
+  {
+    "index": 49,
+    "question": "Which acid is found in the human stomach?",
+    "options": ["Sulfuric Acid", "Acetic Acid", "Hydrochloric Acid", "Nitric Acid"],
+    "answer": "Hydrochloric Acid",
+    "category": "Biology"
+  },
+  {
+    "index": 50,
+    "question": "Which electronic component is used to store electrical energy?",
+    "options": ["Resistor", "Capacitor", "Inductor", "Transistor"],
+    "answer": "Capacitor",
+    "category": "Electronics"
+  },
+  {
+    "index": 51,
+    "question": "What does LAN stand for in networking?",
+    "options": ["Local Area Network", "Large Access Network", "Link Access Node", "Logical Area Network"],
+    "answer": "Local Area Network",
+    "category": "Computer Networking"
+  },
+  {
+    "index": 52,
+    "question": "Which part of the human brain controls balance?",
+    "options": ["Cerebrum", "Medulla", "Cerebellum", "Pons"],
+    "answer": "Cerebellum",
+    "category": "Biology"
+  },
+  {
+    "index": 53,
+    "question": "Which element is used in pencils?",
+    "options": ["Carbon", "Lead", "Graphite", "Silicon"],
+    "answer": "Graphite",
+    "category": "Chemistry"
+  },
+  {
+    "index": 54,
+    "question": "Which scientist proposed the heliocentric theory?",
+    "options": ["Copernicus", "Galileo", "Newton", "Kepler"],
+    "answer": "Copernicus",
+    "category": "Astronomy"
+  },
+  {
+    "index": 55,
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "answer": "100°C",
+    "category": "Physics"
+  },
+  {
+    "index": 56,
+    "question": "What is the binary representation of the number 10?",
+    "options": ["1000", "1010", "1110", "1100"],
+    "answer": "1010",
+    "category": "Computer Science"
+  },
+  {
+    "index": 57,
+    "question": "Which vitamin is also known as ascorbic acid?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin C",
+    "category": "Biology"
+  },
+  {
+    "index": 58,
+    "question": "Which instrument is used to measure electric current?",
+    "options": ["Voltmeter", "Ammeter", "Ohmmeter", "Barometer"],
+    "answer": "Ammeter",
+    "category": "Physics"
+  },
+  {
+    "index": 59,
+    "question": "Which is the lightest element in the periodic table?",
+    "options": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
+    "answer": "Hydrogen",
+    "category": "Chemistry"
+  },
+  {
+    "index": 60,
+    "question": "Which network topology has a central hub?",
+    "options": ["Ring", "Bus", "Star", "Mesh"],
+    "answer": "Star",
+    "category": "Computer Networking"
+  },
+  {
+    "index": 61,
+    "question": "Which part of the human body is primarily responsible for detoxification?",
+    "options": ["Kidneys", "Liver", "Lungs", "Heart"],
+    "answer": "Liver",
+    "category": "Biology"
+  },
+  {
+    "index": 62,
+    "question": "Which scientist is credited with discovering radioactivity?",
+    "options": ["Marie Curie", "Henri Becquerel", "Rutherford", "Einstein"],
+    "answer": "Henri Becquerel",
+    "category": "Physics"
+  },
+  {
+    "index": 63,
+    "question": "What is the main function of red blood cells?",
+    "options": ["Fight infection", "Carry oxygen", "Help clotting", "Filter toxins"],
+    "answer": "Carry oxygen",
+    "category": "Biology"
+  },
+  {
+    "index": 64,
+    "question": "Which mathematical operation is the inverse of exponentiation?",
+    "options": ["Logarithm", "Multiplication", "Division", "Factorial"],
+    "answer": "Logarithm",
+    "category": "Mathematics"
+  },
+  {
+    "index": 65,
+    "question": "Which gas is commonly used in balloons because it is lighter than air?",
+    "options": ["Hydrogen", "Oxygen", "Helium", "Nitrogen"],
+    "answer": "Helium",
+    "category": "Chemistry"
+  },
+  {
+    "index": 66,
+    "question": "What is the function of the human cerebrum?",
+    "options": ["Balance", "Respiration control", "Thought and memory", "Blood circulation"],
+    "answer": "Thought and memory",
+    "category": "Biology"
+  },
+  {
+    "index": 67,
+    "question": "Which year did the first man land on the Moon?",
+    "options": ["1965", "1969", "1972", "1975"],
+    "answer": "1969",
+    "category": "History of Science"
+  },
+  {
+    "index": 68,
+    "question": "Which part of the computer performs calculations and logical operations?",
+    "options": ["RAM", "Hard Drive", "CPU", "GPU"],
+    "answer": "CPU",
+    "category": "Computer Science"
+  },
+  {
+    "index": 69,
+    "question": "Which process in plants releases water vapor into the atmosphere?",
+    "options": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+    "answer": "Transpiration",
+    "category": "Biology"
+  },
+  {
+    "index": 70,
+    "question": "What is the SI unit of electric charge?",
+    "options": ["Coulomb", "Ohm", "Ampere", "Volt"],
+    "answer": "Coulomb",
+    "category": "Physics"
+  },
+  {
+    "index": 71,
+    "question": "Which chemical element has 6 protons in its nucleus?",
+    "options": ["Oxygen", "Nitrogen", "Carbon", "Helium"],
+    "answer": "Carbon",
+    "category": "Chemistry"
+  },
+  {
+    "index": 72,
+    "question": "Which programming paradigm is based on functions and immutability?",
+    "options": ["Object-Oriented", "Functional", "Procedural", "Imperative"],
+    "answer": "Functional",
+    "category": "Computer Science"
+  },
+  {
+    "index": 73,
+    "question": "Which scientist discovered penicillin?",
+    "options": ["Louis Pasteur", "Alexander Fleming", "Edward Jenner", "Robert Koch"],
+    "answer": "Alexander Fleming",
+    "category": "Biology"
+  },
+  {
+    "index": 74,
+    "question": "What does the 'Ctrl + Z' keyboard shortcut typically do?",
+    "options": ["Redo", "Copy", "Undo", "Zoom"],
+    "answer": "Undo",
+    "category": "Technology"
+  },
+  {
+    "index": 75,
+    "question": "Which organelle is known as the 'control center' of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Endoplasmic Reticulum"],
+    "answer": "Nucleus",
+    "category": "Biology"
+  },
+  {
+    "index": 76,
+    "question": "What does HTML stand for?",
+    "options": ["Hyperlinks and Text Markup Language", "Hypertext Markup Language", "High-Level Text Management Language", "Hyper Tool Markup Level"],
+    "answer": "Hypertext Markup Language",
+    "category": "Web Development"
+  },
+  {
+    "index": 77,
+    "question": "Which planet is referred to as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars",
+    "category": "Astronomy"
+  },
+  {
+    "index": 78,
+    "question": "Which is the most abundant element in the universe?",
+    "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"],
+    "answer": "Hydrogen",
+    "category": "Chemistry"
+  },
+  {
+    "index": 79,
+    "question": "Which unit is used to measure frequency?",
+    "options": ["Watt", "Pascal", "Hertz", "Joule"],
+    "answer": "Hertz",
+    "category": "Physics"
+  },
+  {
+    "index": 80,
+    "question": "Which branch of botany deals with fungi?",
+    "options": ["Phycology", "Mycology", "Bryology", "Paleobotany"],
+    "answer": "Mycology",
+    "category": "Biology"
+  },
+  {
+    "index": 81,
+    "question": "Which type of lens is used in a magnifying glass?",
+    "options": ["Concave", "Convex", "Cylindrical", "Plano-concave"],
+    "answer": "Convex",
+    "category": "Physics"
+  },
+  {
+    "index": 82,
+    "question": "Which is the SI unit of energy?",
+    "options": ["Watt", "Joule", "Newton", "Volt"],
+    "answer": "Joule",
+    "category": "Physics"
+  },
+  {
+    "index": 83,
+    "question": "What is the full form of API in computing?",
+    "options": ["Application Program Interface", "Advanced Processing Instruction", "Application Protocol Interaction", "Automated Program Integration"],
+    "answer": "Application Program Interface",
+    "category": "Computer Science"
+  },
+  {
+    "index": 84,
+    "question": "Which blood component helps in clotting?",
+    "options": ["Red Cells", "White Cells", "Platelets", "Plasma"],
+    "answer": "Platelets",
+    "category": "Biology"
+  },
+  {
+    "index": 85,
+    "question": "What is the measure of resistance in an electrical circuit?",
+    "options": ["Ampere", "Volt", "Ohm", "Watt"],
+    "answer": "Ohm",
+    "category": "Physics"
+  },
+  {
+    "index": 86,
+    "question": "Which subatomic particle has no electric charge?",
+    "options": ["Electron", "Proton", "Neutron", "Positron"],
+    "answer": "Neutron",
+    "category": "Physics"
+  },
+  {
+    "index": 87,
+    "question": "Which programming language is primarily used for iOS app development?",
+    "options": ["Objective-C", "Java", "C#", "Kotlin"],
+    "answer": "Objective-C",
+    "category": "Computer Science"
+  },
+  {
+    "index": 88,
+    "question": "Which scale measures the intensity of earthquakes?",
+    "options": ["Richter Scale", "Beaufort Scale", "Kelvin Scale", "Decibel Scale"],
+    "answer": "Richter Scale",
+    "category": "Geography"
+  },
+  {
+    "index": 89,
+    "question": "Which scientist discovered the electron?",
+    "options": ["Rutherford", "J.J. Thomson", "Niels Bohr", "Planck"],
+    "answer": "J.J. Thomson",
+    "category": "Physics"
+  },
+  {
+    "index": 90,
+    "question": "Which is the process of converting liquid to gas at any temperature?",
+    "options": ["Evaporation", "Condensation", "Freezing", "Sublimation"],
+    "answer": "Evaporation",
+    "category": "Chemistry"
+  },
+  {
+    "index": 91,
+    "question": "Which protocol is used for sending email?",
+    "options": ["SMTP", "HTTP", "IMAP", "FTP"],
+    "answer": "SMTP",
+    "category": "Computer Networking"
+  },
+  {
+    "index": 92,
+    "question": "Which is the fastest sea animal?",
+    "options": ["Shark", "Sailfish", "Tuna", "Dolphin"],
+    "answer": "Sailfish",
+    "category": "Biology"
+  },
+  {
+    "index": 93,
+    "question": "Which part of the cell is responsible for protein synthesis?",
+    "options": ["Ribosome", "Nucleus", "Mitochondria", "Golgi body"],
+    "answer": "Ribosome",
+    "category": "Biology"
+  },
+  {
+    "index": 94,
+    "question": "Which part of a flower produces pollen?",
+    "options": ["Stigma", "Anther", "Ovary", "Sepal"],
+    "answer": "Anther",
+    "category": "Biology"
+  },
+  {
+    "index": 95,
+    "question": "Which is the largest bone in the human body?",
+    "options": ["Skull", "Femur", "Humerus", "Tibia"],
+    "answer": "Femur",
+    "category": "Biology"
+  },
+  {
+    "index": 96,
+    "question": "Which gas is produced during photosynthesis?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen",
+    "category": "Biology"
+  },
+  {
+    "index": 97,
+    "question": "Which branch of mathematics studies changes and motion?",
+    "options": ["Algebra", "Geometry", "Calculus", "Statistics"],
+    "answer": "Calculus",
+    "category": "Mathematics"
+  },
+  {
+    "index": 98,
+    "question": "Which device converts mechanical energy into electrical energy?",
+    "options": ["Motor", "Generator", "Battery", "Transformer"],
+    "answer": "Generator",
+    "category": "Physics"
+  },
+  {
+    "index": 99,
+    "question": "What is the SI unit of pressure?",
+    "options": ["Pascal", "Joule", "Watt", "Newton"],
+    "answer": "Pascal",
+    "category": "Physics"
+  },
+  {
+    "index": 100,
+    "question": "Which gas is known as marsh gas?",
+    "options": ["Carbon Dioxide", "Methane", "Propane", "Hydrogen"],
+    "answer": "Methane",
+    "category": "Chemistry"
+  },
+  {
+    "index": 101,
+    "question": "Which protocol is used to retrieve emails from a server?",
+    "options": ["SMTP", "HTTP", "IMAP", "POP3"],
+    "answer": "POP3",
+    "category": "Computer Networking"
+  },
+  {
+    "index": 102,
+    "question": "Which organ pumps blood throughout the body?",
+    "options": ["Brain", "Liver", "Heart", "Lungs"],
+    "answer": "Heart",
+    "category": "Biology"
+  },
+  {
+    "index": 103,
+    "question": "In binary, what is the value of 1111?",
+    "options": ["14", "15", "16", "12"],
+    "answer": "15",
+    "category": "Computer Science"
+  },
+  {
+    "index": 104,
+    "question": "Which liquid metal is used in thermometers?",
+    "options": ["Mercury", "Lead", "Sodium", "Gallium"],
+    "answer": "Mercury",
+    "category": "Chemistry"
+  },
+  {
+    "index": 105,
+    "question": "Which is the heaviest naturally occurring element?",
+    "options": ["Uranium", "Plutonium", "Osmium", "Lead"],
+    "answer": "Uranium",
+    "category": "Chemistry"
+  },
+  {
+    "index": 106,
+    "question": "Which scientist proposed the uncertainty principle?",
+    "options": ["Niels Bohr", "Heisenberg", "Einstein", "Planck"],
+    "answer": "Heisenberg",
+    "category": "Physics"
+  },
+  {
+    "index": 107,
+    "question": "Which layer of Earth contains the tectonic plates?",
+    "options": ["Crust", "Mantle", "Outer core", "Inner core"],
+    "answer": "Crust",
+    "category": "Geography"
+  },
+  {
+    "index": 108,
+    "question": "What is the symbol for the chemical element Sodium?",
+    "options": ["S", "Sn", "Na", "So"],
+    "answer": "Na",
+    "category": "Chemistry"
+  },
+  {
+    "index": 109,
+    "question": "Which country invented paper?",
+    "options": ["Greece", "Egypt", "China", "India"],
+    "answer": "China",
+    "category": "History of Science"
+  },
+  {
+    "index": 110,
+    "question": "Which cell organelle is responsible for packaging proteins?",
+    "options": ["Nucleus", "Mitochondria", "Golgi apparatus", "Ribosome"],
+    "answer": "Golgi apparatus",
+    "category": "Biology"
+  },
+
+  {
+    "index": 111,
+    "question": "Which process is used to purify water using evaporation and condensation?",
+    "options": ["Decantation", "Filtration", "Distillation", "Evaporation"],
+    "answer": "Distillation",
+    "category": "Chemistry"
+  },
+  {
+    "index": 112,
+    "question": "Which is the universal acceptor blood group?",
+    "options": ["O-", "AB+", "B+", "A+"],
+    "answer": "AB+",
+    "category": "Biology"
+  },
+  {
+    "index": 113,
+    "question": "Which programming language is primarily used for Android development?",
+    "options": ["Swift", "Kotlin", "C#", "JavaScript"],
+    "answer": "Kotlin",
+    "category": "Computer Science"
+  },
+  {
+    "index": 114,
+    "question": "Which particle has the least mass?",
+    "options": ["Electron", "Neutron", "Proton", "Photon"],
+    "answer": "Photon",
+    "category": "Physics"
+  },
+  {
+    "index": 115,
+    "question": "Which is the hottest planet in the solar system?",
+    "options": ["Venus", "Mercury", "Jupiter", "Neptune"],
+    "answer": "Venus",
+    "category": "Astronomy"
+  },
+  {
+    "index": 116,
+    "question": "Which machine converts sound waves into electrical signals?",
+    "options": ["Speaker", "Antenna", "Microphone", "Amplifier"],
+    "answer": "Microphone",
+    "category": "Electronics"
+  },
+  {
+    "index": 117,
+    "question": "Which scientist classified elements into the Periodic Table?",
+    "options": ["Mendeleev", "Newton", "Einstein", "Curie"],
+    "answer": "Mendeleev",
+    "category": "Chemistry"
+  },
+  {
+    "index": 118,
+    "question": "Which key on the keyboard is used to refresh a page?",
+    "options": ["F2", "F5", "F9", "Ctrl"],
+    "answer": "F5",
+    "category": "Technology"
+  },
+  {
+    "index": 119,
+    "question": "Which planet rotates on its side?",
+    "options": ["Mars", "Uranus", "Earth", "Saturn"],
+    "answer": "Uranus",
+    "category": "Astronomy"
+  },
+  {
+    "index": 120,
+    "question": "Which electron configuration represents Neon?",
+    "options": ["1s2 2s2 2p6", "1s2 2s2 2p4", "1s2 2s2 2p2", "1s2 2s2 2p5"],
+    "answer": "1s2 2s2 2p6",
+    "category": "Chemistry"
+  },
+  {
+    "index": 121,
+    "question": "Which is the largest desert in the world?",
+    "options": ["Gobi Desert", "Sahara Desert", "Kalahari Desert", "Arabian Desert"],
+    "answer": "Sahara Desert",
+    "category": "Geography"
+  },
+  {
+    "index": 122,
+    "question": "Which river is the longest in the world?",
+    "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "answer": "Nile",
+    "category": "Geography"
+  },
+  {
+    "index": 123,
+    "question": "Which currency is used in Japan?",
+    "options": ["Yuan", "Yen", "Won", "Dollar"],
+    "answer": "Yen",
+    "category": "Economy"
+  },
+  {
+    "index": 124,
+    "question": "Which animal is the largest mammal on Earth?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippo"],
+    "answer": "Blue Whale",
+    "category": "Zoology"
+  },
+  {
+    "index": 125,
+    "question": "What does GDP stand for in economics?",
+    "options": ["Gross Domestic Product", "General Domestic Profit", "Global Debt Percentage", "Gross Development Plan"],
+    "answer": "Gross Domestic Product",
+    "category": "Economy"
+  },
+  {
+    "index": 126,
+    "question": "Which country has the largest population in the world?",
+    "options": ["India", "USA", "China", "Russia"],
+    "answer": "China",
+    "category": "Geography"
+  },
+  {
+    "index": 127,
+    "question": "Which is the national animal of Australia?",
+    "options": ["Kangaroo", "Koala", "Emu", "Platypus"],
+    "answer": "Kangaroo",
+    "category": "Zoology"
+  },
+  {
+    "index": 128,
+    "question": "Which ocean is the deepest?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean",
+    "category": "Geography"
+  },
+  {
+    "index": 129,
+    "question": "Which Indian city is known as the financial capital of India?",
+    "options": ["New Delhi", "Mumbai", "Chennai", "Bangalore"],
+    "answer": "Mumbai",
+    "category": "Economy"
+  },
+  {
+    "index": 130,
+    "question": "Which animal is known as the 'ship of the desert'?",
+    "options": ["Horse", "Camel", "Donkey", "Yak"],
+    "answer": "Camel",
+    "category": "Zoology"
+  },
+  {
+    "index": 131,
+    "question": "Which is the highest mountain peak in the world?",
+    "options": ["K2", "Mount Everest", "Kanchenjunga", "Makalu"],
+    "answer": "Mount Everest",
+    "category": "Geography"
+  },
+  {
+    "index": 132,
+    "question": "Which unit is used to measure inflation?",
+    "options": ["Consumer Price Index", "Monetary Index", "Stock Index", "Currency Stock"],
+    "answer": "Consumer Price Index",
+    "category": "Economy"
+  },
+  {
+    "index": 133,
+    "question": "Which bird is known for its ability to mimic human speech?",
+    "options": ["Crow", "Parrot", "Pigeon", "Owl"],
+    "answer": "Parrot",
+    "category": "Zoology"
+  },
+  {
+    "index": 134,
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["Japan", "China", "South Korea", "Thailand"],
+    "answer": "Japan",
+    "category": "Geography"
+  },
+  {
+    "index": 135,
+    "question": "Which organization is responsible for printing currency in India?",
+    "options": ["RBI", "SEBI", "Finance Ministry", "Indian Bank"],
+    "answer": "RBI",
+    "category": "Economy"
+  },
+  {
+    "index": 136,
+    "question": "Which class of animals lay eggs but feed milk to young ones?",
+    "options": ["Reptiles", "Monotremes", "Marsupials", "Mammals"],
+    "answer": "Monotremes",
+    "category": "Zoology"
+  },
+  {
+    "index": 137,
+    "question": "Which is the smallest country in the world?",
+    "options": ["Maldives", "San Marino", "Vatican City", "Monaco"],
+    "answer": "Vatican City",
+    "category": "Geography"
+  },
+  {
+    "index": 138,
+    "question": "Which index measures the performance of stock markets in India?",
+    "options": ["SENSEX", "NASDAQ", "Dow Jones", "FTSE"],
+    "answer": "SENSEX",
+    "category": "Economy"
+  },
+  {
+    "index": 139,
+    "question": "Which is the only mammal that can fly?",
+    "options": ["Bat", "Squirrel", "Flying Fox", "Pigeon"],
+    "answer": "Bat",
+    "category": "Zoology"
+  },
+  {
+    "index": 140,
+    "question": "Which river flows through Egypt?",
+    "options": ["Amazon", "Euphrates", "Nile", "Ganga"],
+    "answer": "Nile",
+    "category": "Geography"
+  },
+  {
+    "index": 141,
+    "question": "Which is the national animal of India?",
+    "options": ["Elephant", "Lion", "Tiger", "Peacock"],
+    "answer": "Tiger",
+    "category": "Zoology"
+  },
+  {
+    "index": 142,
+    "question": "Which country has the largest land area in the world?",
+    "options": ["Canada", "China", "USA", "Russia"],
+    "answer": "Russia",
+    "category": "Geography"
+  },
+  {
+    "index": 143,
+    "question": "Which is the strongest muscle in the human body by weight?",
+    "options": ["Biceps", "Jaw Muscle (Masseter)", "Heart", "Gluteus Maximus"],
+    "answer": "Jaw Muscle (Masseter)",
+    "category": "Science and Technology"
+  },
+  {
+    "index": 144,
+    "question": "Which country is famous for the Amazon rainforest?",
+    "options": ["Brazil", "Colombia", "Peru", "Venezuela"],
+    "answer": "Brazil",
+    "category": "Geography"
+  },
+  {
+    "index": 145,
+    "question": "Which metal is called the 'metal of the future' in electric vehicles?",
+    "options": ["Copper", "Iron", "Lithium", "Silver"],
+    "answer": "Lithium",
+    "category": "Science and Technology"
+  },
+  {
+    "index": 146,
+    "question": "If 12 pens cost 60 rupees, what is the cost of 1 pen?",
+    "options": ["4", "5", "6", "3"],
+    "answer": "5",
+    "category": "Reasoning"
+  },
+  {
+    "index": 147,
+    "question": "Arrange the numbers in ascending order: 72, 27, 12, 36",
+    "options": ["72, 27, 12, 36", "12, 27, 36, 72", "27, 36, 12, 72", "36, 27, 12, 72"],
+    "answer": "12, 27, 36, 72",
+    "category": "Reasoning"
+  },
+  {
+    "index": 148,
+    "question": "Which is India’s largest state by area?",
+    "options": ["Maharashtra", "Rajasthan", "Madhya Pradesh", "Uttar Pradesh"],
+    "answer": "Rajasthan",
+    "category": "Geography"
+  },
+  {
+    "index": 149,
+    "question": "Which economic sector includes farming and mining?",
+    "options": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+    "answer": "Primary",
+    "category": "Economy"
+  },
+  {
+    "index": 150,
+    "question": "Which animal is cold-blooded?",
+    "options": ["Dog", "Elephant", "Snake", "Whale"],
+    "answer": "Snake",
+    "category": "Zoology"
+  },
+  {
+    "index": 151,
+    "question": "Which capital city is located on the river Thames?",
+    "options": ["Paris", "London", "Rome", "Berlin"],
+    "answer": "London",
+    "category": "Geography"
+  },
+  {
+    "index": 152,
+    "question": "India is the largest producer of which crop?",
+    "options": ["Wheat", "Rice", "Milk", "Cotton"],
+    "answer": "Milk",
+    "category": "Economy"
+  },
+  {
+    "index": 153,
+    "question": "Which reptile can change its skin color?",
+    "options": ["Snake", "Chameleon", "Crocodile", "Iguana"],
+    "answer": "Chameleon",
+    "category": "Zoology"
+  },
+  {
+    "index": 154,
+    "question": "Which city is known as the Silicon Valley of India?",
+    "options": ["Hyderabad", "Pune", "Chennai", "Bangalore"],
+    "answer": "Bangalore",
+    "category": "Science and Technology"
+  },
+  {
+    "index": 155,
+    "question": "Which is the largest continent by area?",
+    "options": ["Africa", "Asia", "Europe", "Australia"],
+    "answer": "Asia",
+    "category": "Geography"
+  },
+  {
+    "index": 156,
+    "question": "What is the opposite of North-West?",
+    "options": ["South-East", "North-East", "South-West", "North"],
+    "answer": "South-East",
+    "category": "Reasoning"
+  },
+  {
+    "index": 157,
+    "question": "Which Indian state is the largest producer of tea?",
+    "options": ["Assam", "Kerala", "West Bengal", "Tamil Nadu"],
+    "answer": "Assam",
+    "category": "Economy"
+  },
+  {
+    "index": 158,
+    "question": "Which mammal lays eggs?",
+    "options": ["Bat", "Kangaroo", "Platypus", "Rabbit"],
+    "answer": "Platypus",
+    "category": "Zoology"
+  },
+  {
+    "index": 159,
+    "question": "Which continent is known as the Dark Continent?",
+    "options": ["South America", "Africa", "Asia", "Europe"],
+    "answer": "Africa",
+    "category": "Geography"
+  },
+  {
+    "index": 160,
+    "question": "Which Indian city is known as the Manchester of India?",
+    "options": ["Ahmedabad", "Surat", "Kanpur", "Mumbai"],
+    "answer": "Ahmedabad",
+    "category": "Economy"
+  },
+  {
+    "index": 161,
+    "question": "Which reasoning: If all cats are animals and some animals are dogs, which statement is definitely true?",
+    "options": ["All cats are dogs", "Some dogs are animals", "All dogs are cats", "Some cats are dogs"],
+    "answer": "Some dogs are animals",
+    "category": "Reasoning"
+  },
+  {
+    "index": 162,
+    "question": "Which country has the largest number of islands?",
+    "options": ["Norway", "Sweden", "Indonesia", "Philippines"],
+    "answer": "Sweden",
+    "category": "Geography"
+  },
+  {
+    "index": 163,
+    "question": "Which term refers to the rise in the general price level of goods and services?",
+    "options": ["Deflation", "Stagnation", "Inflation", "Depression"],
+    "answer": "Inflation",
+    "category": "Economy"
+  },
+  {
+    "index": 164,
+    "question": "Which mammal is known for carrying its baby in a pouch?",
+    "options": ["Whale", "Kangaroo", "Lion", "Bat"],
+    "answer": "Kangaroo",
+    "category": "Zoology"
+  },
+  {
+    "index": 165,
+    "question": "Which is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "answer": "Ottawa",
+    "category": "Geography"
+  },
+  {
+    "index": 166,
+    "question": "Which Indian institution regulates the stock market?",
+    "options": ["RBI", "NABARD", "SEBI", "IRDAI"],
+    "answer": "SEBI",
+    "category": "Economy"
+  },
+  {
+    "index": 167,
+    "question": "Which is the fastest land mammal?",
+    "options": ["Tiger", "Cheetah", "Lion", "Leopard"],
+    "answer": "Cheetah",
+    "category": "Zoology"
+  },
+  {
+    "index": 168,
+    "question": "Which direction is to the left of East?",
+    "options": ["South", "North", "West", "North-East"],
+    "answer": "North",
+    "category": "Reasoning"
+  },
+  {
+    "index": 169,
+    "question": "Which is the largest freshwater lake in the world?",
+    "options": ["Lake Superior", "Lake Victoria", "Caspian Sea", "Lake Baikal"],
+    "answer": "Lake Superior",
+    "category": "Geography"
+  },
+  {
+    "index": 170,
+    "question": "Which industry is called the backbone of Indian industry?",
+    "options": ["Iron and Steel", "Cotton", "IT", "Automobile"],
+    "answer": "Iron and Steel",
+    "category": "Economy"
+  },
+  {
+    "index": 171,
+    "question": "Which bird is a flightless bird?",
+    "options": ["Sparrow", "Penguin", "Crow", "Owl"],
+    "answer": "Penguin",
+    "category": "Zoology"
+  },
+  {
+    "index": 172,
+    "question": "Which country has the Great Barrier Reef?",
+    "options": ["USA", "Australia", "Indonesia", "South Africa"],
+    "answer": "Australia",
+    "category": "Geography"
+  },
+  {
+    "index": 173,
+    "question": "Which type of economy is controlled by supply and demand?",
+    "options": ["Planned Economy", "Mixed Economy", "Market Economy", "Traditional Economy"],
+    "answer": "Market Economy",
+    "category": "Economy"
+  },
+  {
+    "index": 174,
+    "question": "Which reasoning: Find the odd one out - 2, 4, 6, 7, 8",
+    "options": ["2", "4", "6", "7"],
+    "answer": "7",
+    "category": "Reasoning"
+  },
+  {
+    "index": 175,
+    "question": "Which strait separates Asia and Europe?",
+    "options": ["Bering Strait", "Strait of Gibraltar", "Bosporus Strait", "Hormuz Strait"],
+    "answer": "Bosporus Strait",
+    "category": "Geography"
+  },
+  {
+    "index": 176,
+    "question": "Which is India’s largest trading partner?",
+    "options": ["USA", "China", "Japan", "UK"],
+    "answer": "USA",
+    "category": "Economy"
+  },
+  {
+    "index": 177,
+    "question": "Which is the largest reptile?",
+    "options": ["Crocodile", "Komodo Dragon", "Python", "Alligator"],
+    "answer": "Crocodile",
+    "category": "Zoology"
+  },
+  {
+    "index": 178,
+    "question": "Which is Europe’s longest river?",
+    "options": ["Danube", "Volga", "Rhine", "Seine"],
+    "answer": "Volga",
+    "category": "Geography"
+  },
+  {
+    "index": 179,
+    "question": "Which country is the world’s largest oil producer?",
+    "options": ["USA", "Russia", "Saudi Arabia", "Canada"],
+    "answer": "USA",
+    "category": "Economy"
+  },
+  {
+    "index": 180,
+    "question": "Which animal has the longest lifespan?",
+    "options": ["Tortoise", "Whale", "Elephant", "Shark"],
+    "answer": "Tortoise",
+    "category": "Zoology"
+  },
+  {
+    "index": 181,
+    "question": "Which is the southernmost continent?",
+    "options": ["Australia", "Africa", "Antarctica", "South America"],
+    "answer": "Antarctica",
+    "category": "Geography"
+  },
+  {
+    "index": 182,
+    "question": "Which is the largest employer in India?",
+    "options": ["RBI", "Indian Railways", "Infosys", "ONGC"],
+    "answer": "Indian Railways",
+    "category": "Economy"
+  },
+  {
+    "index": 183,
+    "question": "Which wild cat is found only in India?",
+    "options": ["Cheetah", "Snow Leopard", "Asiatic Lion", "Ocelot"],
+    "answer": "Asiatic Lion",
+    "category": "Zoology"
+  },
+  {
+    "index": 184,
+    "question": "If A=1, Z=26, what is the value of CAT?",
+    "options": ["24", "27", "29", "35"],
+    "answer": "24",
+    "category": "Reasoning"
+  },
+  {
+    "index": 185,
+    "question": "Which state in India is known as the Spice Garden?",
+    "options": ["Kerala", "Tamil Nadu", "Goa", "Karnataka"],
+    "answer": "Kerala",
+    "category": "Geography"
+  },
+  {
+    "index": 186,
+    "question": "Which parameter measures a nation's economic output?",
+    "options": ["CPI", "GDP", "FDI", "NPA"],
+    "answer": "GDP",
+    "category": "Economy"
+  },
+  {
+    "index": 187,
+    "question": "Which animal can regrow its tail?",
+    "options": ["Dog", "Snake", "Lizard", "Horse"],
+    "answer": "Lizard",
+    "category": "Zoology"
+  },
+  {
+    "index": 188,
+    "question": "Which desert is the coldest in the world?",
+    "options": ["Atacama", "Gobi", "Antarctic Desert", "Kalahari"],
+    "answer": "Antarctic Desert",
+    "category": "Geography"
+  },
+  {
+    "index": 189,
+    "question": "Which is India’s central banking authority?",
+    "options": ["RBI", "SEBI", "Finance Ministry", "NITI Aayog"],
+    "answer": "RBI",
+    "category": "Economy"
+  },
+  {
+    "index": 190,
+    "question": "Which animal is the national aquatic animal of India?",
+    "options": ["Crocodile", "River Dolphin", "Fish", "Turtle"],
+    "answer": "River Dolphin",
+    "category": "Zoology"
+  },
+  {
+    "index": 191,
+    "question": "Which strait separates India and Sri Lanka?",
+    "options": ["Hormuz Strait", "Palk Strait", "Bering Strait", "Bosporus"],
+    "answer": "Palk Strait",
+    "category": "Geography"
+  },
+  {
+    "index": 192,
+    "question": "Which is the national bird of India?",
+    "options": ["Crow", "Peacock", "Parrot", "Sparrow"],
+    "answer": "Peacock",
+    "category": "Zoology"
+  },
+  {
+    "index": 193,
+    "question": "Which is the largest coral reef system?",
+    "options": ["Great Barrier Reef", "Red Sea Reef", "Caribbean Reef", "Andaman Reef"],
+    "answer": "Great Barrier Reef",
+    "category": "Geography"
+  },
+  {
+    "index": 194,
+    "question": "Which Indian bank is the largest by assets?",
+    "options": ["ICICI Bank", "HDFC Bank", "SBI", "Axis Bank"],
+    "answer": "SBI",
+    "category": "Economy"
+  },
+  {
+    "index": 195,
+    "question": "Which is the tallest animal in the world?",
+    "options": ["Elephant", "Giraffe", "Camel", "Horse"],
+    "answer": "Giraffe",
+    "category": "Zoology"
+  },
+  {
+    "index": 196,
+    "question": "Which is the world’s largest peninsula?",
+    "options": ["Arabian", "Indian", "Iberian", "Malay"],
+    "answer": "Arabian",
+    "category": "Geography"
+  },
+  {
+    "index": 197,
+    "question": "Which country is the largest producer of wheat?",
+    "options": ["USA", "India", "Russia", "China"],
+    "answer": "China",
+    "category": "Economy"
+  },
+  {
+    "index": 198,
+    "question": "Which animal is known as the king of the jungle?",
+    "options": ["Lion", "Tiger", "Leopard", "Elephant"],
+    "answer": "Lion",
+    "category": "Zoology"
+  },
+  {
+    "index": 199,
+    "question": "Which mountain range separates Europe and Asia?",
+    "options": ["Andes", "Ural Mountains", "Alps", "Rockies"],
+    "answer": "Ural Mountains",
+    "category": "Geography"
+  },
+  {
+    "index": 200,
+    "question": "What is the main source of income for the Indian government?",
+    "options": ["Custom Duty", "Income Tax", "Corporate Tax", "Excise Duty"],
+    "answer": "Income Tax",
+    "category": "Economy"
+  },
+  {
+    "index": 201,
+    "question": "Which bird is the fastest in flight?",
+    "options": ["Eagle", "Falcon", "Hawk", "Sparrow"],
+    "answer": "Falcon",
+    "category": "Zoology"
+  },
+  {
+    "index": 202,
+    "question": "Which plateau is known as the Roof of the World?",
+    "options": ["Deccan Plateau", "Colorado Plateau", "Tibetan Plateau", "Patagonian Plateau"],
+    "answer": "Tibetan Plateau",
+    "category": "Geography"
+  },
+  {
+    "index": 203,
+    "question": "Which is the oldest stock exchange in Asia?",
+    "options": ["Bombay Stock Exchange", "Shanghai Stock Exchange", "Tokyo Stock Exchange", "Hong Kong Exchange"],
+    "answer": "Bombay Stock Exchange",
+    "category": "Economy"
+  },
+  {
+    "index": 204,
+    "question": "Which animal is known as the largest carnivore?",
+    "options": ["Tiger", "Polar Bear", "Lion", "Hyena"],
+    "answer": "Polar Bear",
+    "category": "Zoology"
+  },
+  {
+    "index": 205,
+    "question": "Which continent has the highest number of countries?",
+    "options": ["Europe", "Asia", "Africa", "South America"],
+    "answer": "Africa",
+    "category": "Geography"
+  },
+  {
+    "index": 206,
+    "question": "Which tax is levied on goods and services in India?",
+    "options": ["GST", "VAT", "Service Tax", "Sales Tax"],
+    "answer": "GST",
+    "category": "Economy"
+  },
+  {
+    "index": 207,
+    "question": "Which is the tallest bird in the world?",
+    "options": ["Emu", "Ostrich", "Albatross", "Flamingo"],
+    "answer": "Ostrich",
+    "category": "Zoology"
+  },
+  {
+    "index": 208,
+    "question": "Which river is called the lifeline of Egypt?",
+    "options": ["Amazon", "Ganga", "Nile", "Yangtze"],
+    "answer": "Nile",
+    "category": "Geography"
+  },
+  {
+    "index": 209,
+    "question": "Which is the highest currency in the world by value?",
+    "options": ["US Dollar", "British Pound", "Kuwaiti Dinar", "Euro"],
+    "answer": "Kuwaiti Dinar",
+    "category": "Economy"
+  },
+  {
+    "index": 210,
+    "question": "Which animal is the fastest marine creature?",
+    "options": ["Shark", "Dolphin", "Sailfish", "Whale"],
+    "answer": "Sailfish",
+    "category": "Zoology"
+  },
+  {
+    "index": 211,
+    "question": "Which is the capital city of Nepal?",
+    "options": ["Kathmandu", "Thimphu", "Dhaka", "Colombo"],
+    "answer": "Kathmandu",
+    "category": "Geography"
+  },
+  {
+    "index": 212,
+    "question": "Which is the central bank of the USA?",
+    "options": ["Federal Bank", "Reserve Bank of USA", "Federal Reserve", "World Bank"],
+    "answer": "Federal Reserve",
+    "category": "Economy"
+  },
+  {
+    "index": 213,
+    "question": "Which mammal is the heaviest?",
+    "options": ["Elephant", "Rhino", "Blue Whale", "Hippopotamus"],
+    "answer": "Blue Whale",
+    "category": "Zoology"
+  },
+  {
+    "index": 214,
+    "question": "Which continent is known as the birthplace of human civilization?",
+    "options": ["Africa", "Asia", "Europe", "South America"],
+    "answer": "Africa",
+    "category": "Geography"
+  },
+  {
+    "index": 215,
+    "question": "Which is the most traded commodity in the world?",
+    "options": ["Coffee", "Oil", "Gold", "Rice"],
+    "answer": "Oil",
+    "category": "Economy"
+  },
+  {
+    "index": 216,
+    "question": "Which reptile is the largest species of lizard?",
+    "options": ["Chameleon", "Monitor", "Komodo Dragon", "Gecko"],
+    "answer": "Komodo Dragon",
+    "category": "Zoology"
+  },
+  {
+    "index": 217,
+    "question": "Which is the capital of South Korea?",
+    "options": ["Beijing", "Tokyo", "Seoul", "Bangkok"],
+    "answer": "Seoul",
+    "category": "Geography"
+  },
+  {
+    "index": 218,
+    "question": "Which Indian company is the largest IT service provider?",
+    "options": ["Infosys", "Wipro", "TCS", "HCL"],
+    "answer": "TCS",
+    "category": "Economy"
+  },
+  {
+    "index": 219,
+    "question": "Which animal is a marsupial?",
+    "options": ["Kangaroo", "Elephant", "Dog", "Horse"],
+    "answer": "Kangaroo",
+    "category": "Zoology"
+  },
+  {
+    "index": 220,
+    "question": "Which is the longest highway in India?",
+    "options": ["NH7", "NH44", "NH8", "NH4"],
+    "answer": "NH44",
+    "category": "Geography"
+  },
+  {
+    "index": 221,
+    "question": "Which is the largest coffee producer in the world?",
+    "options": ["India", "Vietnam", "Brazil", "Colombia"],
+    "answer": "Brazil",
+    "category": "Economy"
+  },
+  {
+    "index": 222,
+    "question": "Which animal is known for intelligence and large brain size?",
+    "options": ["Dog", "Elephant", "Shark", "Crocodile"],
+    "answer": "Elephant",
+    "category": "Zoology"
+  },
+  {
+    "index": 223,
+    "question": "Which is the southernmost state of India?",
+    "options": ["Kerala", "Andhra Pradesh", "Tamil Nadu", "Karnataka"],
+    "answer": "Tamil Nadu",
+    "category": "Geography"
+  },
+  {
+    "index": 224,
+    "question": "Which is the main source of foreign exchange for India?",
+    "options": ["Export of services", "Tourism", "Agriculture exports", "Remittances"],
+    "answer": "Remittances",
+    "category": "Economy"
+  },
+  {
+    "index": 225,
+    "question": "Which mollusk has three hearts and blue blood?",
+    "options": ["Octopus", "Squid", "Snail", "Clam"],
+    "answer": "Octopus",
+    "category": "Zoology"
+  },
+  {
+    "index": 226,
+    "question": "Which Indian city is called the Pink City?",
+    "options": ["Jaipur", "Udaipur", "Jodhpur", "Agra"],
+    "answer": "Jaipur",
+    "category": "Geography"
+  },
+  {
+    "index": 227,
+    "question": "Which country is the largest exporter of crude oil?",
+    "options": ["Saudi Arabia", "USA", "Iran", "Russia"],
+    "answer": "Saudi Arabia",
+    "category": "Economy"
+  },
+  {
+    "index": 228,
+    "question": "Which animal is called the 'water horse'?",
+    "options": ["Crocodile", "Hippopotamus", "Seal", "Otter"],
+    "answer": "Hippopotamus",
+    "category": "Zoology"
+  },
+  {
+    "index": 229,
+    "question": "Which is the largest continent by population?",
+    "options": ["Africa", "Asia", "Europe", "South America"],
+    "answer": "Asia",
+    "category": "Geography"
+  },
+  {
+    "index": 230,
+    "question": "Which is the stock exchange regulator in the USA?",
+    "options": ["SEC", "NASDAQ", "NYSE", "CFTC"],
+    "answer": "SEC",
+    "category": "Economy"
+  },
+  {
+    "index": 231,
+    "question": "Which sea creature has no brain or heart?",
+    "options": ["Jellyfish", "Starfish", "Octopus", "Eel"],
+    "answer": "Jellyfish",
+    "category": "Zoology"
+  },
+  {
+    "index": 232,
+    "question": "Which is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "answer": "Ottawa",
+    "category": "Geography"
+  },
+  {
+    "index": 233,
+    "question": "Which is the most valuable company in the world by market cap (as of 2023)?",
+    "options": ["Amazon", "Microsoft", "Apple", "Google"],
+    "answer": "Apple",
+    "category": "Economy"
+  },
+  {
+    "index": 234,
+    "question": "Which mammal spends its entire life in water?",
+    "options": ["Dolphin", "Whale", "Seal", "Otter"],
+    "answer": "Whale",
+    "category": "Zoology"
+  },
+  {
+    "index": 235,
+    "question": "Which desert covers most of northern Africa?",
+    "options": ["Gobi", "Sahara", "Kalahari", "Thar"],
+    "answer": "Sahara",
+    "category": "Geography"
+  },
+  {
+    "index": 236,
+    "question": "Which country has the largest GDP in the world?",
+    "options": ["China", "Japan", "USA", "Germany"],
+    "answer": "USA",
+    "category": "Economy"
+  },
+  {
+    "index": 237,
+    "question": "Which bird can fly backwards?",
+    "options": ["Crow", "Sparrow", "Hummingbird", "Parrot"],
+    "answer": "Hummingbird",
+    "category": "Zoology"
+  },
+  {
+    "index": 238,
+    "question": "Which city is known as the City of Canals?",
+    "options": ["Venice", "Amsterdam", "Bruges", "Bangkok"],
+    "answer": "Venice",
+    "category": "Geography"
+  },
+  {
+    "index": 239,
+    "question": "Which organization monitors global economic stability?",
+    "options": ["World Bank", "IMF", "UN", "WTO"],
+    "answer": "IMF",
+    "category": "Economy"
+  },
+  {
+    "index": 240,
+    "question": "Which animal is the largest land predator?",
+    "options": ["Polar Bear", "Tiger", "Lion", "Crocodile"],
+    "answer": "Polar Bear",
+    "category": "Zoology"
+  },
+  {
+    "index": 241,
+    "question": "Which is the capital of Bhutan?",
+    "options": ["Kathmandu", "Dhaka", "Thimphu", "Colombo"],
+    "answer": "Thimphu",
+    "category": "Geography"
+  },
+  {
+    "index": 242,
+    "question": "Which is India’s largest public sector company?",
+    "options": ["ONGC", "SBI", "IOCL", "BHEL"],
+    "answer": "IOCL",
+    "category": "Economy"
+  },
+  {
+    "index": 243,
+    "question": "Which amphibian can live both in water and land?",
+    "options": ["Lizard", "Frog", "Crocodile", "Turtle"],
+    "answer": "Frog",
+    "category": "Zoology"
+  },
+  {
+    "index": 244,
+    "question": "Which canal connects the Mediterranean Sea to the Red Sea?",
+    "options": ["Panama Canal", "Kiel Canal", "Suez Canal", "Corinth Canal"],
+    "answer": "Suez Canal",
+    "category": "Geography"
+  },
+  {
+    "index": 245,
+    "question": "Which country is the largest producer of gold?",
+    "options": ["South Africa", "China", "India", "Australia"],
+    "answer": "China",
+    "category": "Economy"
+  },
+  {
+    "index": 246,
+    "question": "Which animal is also known as the 'desert fox'?",
+    "options": ["Arctic fox", "Fennec fox", "Wolf", "Jackal"],
+    "answer": "Fennec fox",
+    "category": "Zoology"
+  },
+  {
+    "index": 247,
+    "question": "Which is the largest island in the world?",
+    "options": ["Greenland", "Madagascar", "Borneo", "New Guinea"],
+    "answer": "Greenland",
+    "category": "Geography"
+  },
+  {
+    "index": 248,
+    "question": "Which country is known as the Land of the Midnight Sun?",
+    "options": ["Norway", "Sweden", "Finland", "Iceland"],
+    "answer": "Norway",
+    "category": "Geography"
+  },
+  {
+    "index": 249,
+    "question": "Which is the economic capital of India?",
+    "options": ["Delhi", "Mumbai", "Chennai", "Bangalore"],
+    "answer": "Mumbai",
+    "category": "Economy"
+  },
+  {
+    "index": 250,
+    "question": "Which fish has an electric organ to generate shock?",
+    "options": ["Shark", "Eel", "Catfish", "Stingray"],
+    "answer": "Eel",
+    "category": "Zoology"
+  },
+  {
+    "index": 251,
+    "question": "Which country has the most volcanoes?",
+    "options": ["Japan", "USA", "Indonesia", "Iceland"],
+    "answer": "Indonesia",
+    "category": "Geography"
+  },
+  {
+    "index": 252,
+    "question": "Which is the second largest economy in the world?",
+    "options": ["Japan", "India", "China", "Germany"],
+    "answer": "China",
+    "category": "Economy"
+  },
+  {
+    "index": 253,
+    "question": "Which insect is the strongest relative to body weight?",
+    "options": ["Ant", "Beetle", "Cockroach", "Wasp"],
+    "answer": "Ant",
+    "category": "Zoology"
+  },
+  {
+    "index": 254,
+    "question": "Which is the coldest place in India?",
+    "options": ["Manali", "Leh", "Siachen Glacier", "Drass"],
+    "answer": "Drass",
+    "category": "Geography"
+  },
+  {
+    "index": 255,
+    "question": "Which trade route connects China to Europe?",
+    "options": ["Silk Road", "Spice Route", "Amber Road", "Tea Horse Road"],
+    "answer": "Silk Road",
+    "category": "Economy"
+  },
+  {
+    "index": 256,
+    "question": "Which sea animal is called the clown fish?",
+    "options": ["Shark", "Octopus", "Anemone Fish", "Stingray"],
+    "answer": "Anemone Fish",
+    "category": "Zoology"
+  },
+  {
+    "index": 257,
+    "question": "Which plateau is rich in minerals in India?",
+    "options": ["Malwa Plateau", "Chota Nagpur Plateau", "Deccan Plateau", "Shillong Plateau"],
+    "answer": "Chota Nagpur Plateau",
+    "category": "Geography"
+  },
+  {
+    "index": 258,
+    "question": "Which country is the largest producer of diamonds?",
+    "options": ["Russia", "South Africa", "Botswana", "Australia"],
+    "answer": "Russia",
+    "category": "Economy"
+  },
+  {
+    "index": 259,
+    "question": "Which bird is the symbol of peace?",
+    "options": ["Eagle", "Dove", "Pigeon", "Swan"],
+    "answer": "Dove",
+    "category": "General"
+  },
+  {
+    "index": 260,
+    "question": "Which line divides the Earth into Northern and Southern Hemispheres?",
+    "options": ["Prime Meridian", "Equator", "Tropic of Cancer", "Longitude 90"],
+    "answer": "Equator",
+    "category": "Geography"
+  },
+  {
+    "index": 261,
+    "question": "Which sector is known as the tertiary sector?",
+    "options": ["Agriculture", "Manufacturing", "Services", "Mining"],
+    "answer": "Services",
+    "category": "Economy"
+  },
+  {
+    "index": 262,
+    "question": "Which fish is the largest in the ocean?",
+    "options": ["Blue Whale", "Shark", "Whale Shark", "Swordfish"],
+    "answer": "Whale Shark",
+    "category": "Zoology"
+  },
+  {
+    "index": 263,
+    "question": "Which desert is located in India?",
+    "options": ["Sahara", "Kalahari", "Thar", "Gobi"],
+    "answer": "Thar",
+    "category": "Geography"
+  },
+  {
+    "index": 264,
+    "question": "Which is the official currency of the European Union?",
+    "options": ["Pound", "Euro", "Dollar", "Franc"],
+    "answer": "Euro",
+    "category": "Economy"
+  },
+  {
+    "index": 265,
+    "question": "Which animal carries its home on its back?",
+    "options": ["Crab", "Snail", "Tortoise", "Turtle"],
+    "answer": "Snail",
+    "category": "Zoology"
+  },
+  {
+    "index": 266,
+    "question": "Which Indian state has the longest coastline?",
+    "options": ["Kerala", "Gujarat", "Andhra Pradesh", "Maharashtra"],
+    "answer": "Gujarat",
+    "category": "Geography"
+  },
+  {
+    "index": 267,
+    "question": "Which is the currency of Saudi Arabia?",
+    "options": ["Dinar", "Riyal", "Dirham", "Dollar"],
+    "answer": "Riyal",
+    "category": "Economy"
+  },
+  {
+    "index": 268,
+    "question": "Which insect produces honey?",
+    "options": ["Butterfly", "Bee", "Wasp", "Hornet"],
+    "answer": "Bee",
+    "category": "Zoology"
+  },
+  {
+    "index": 269,
+    "question": "Which longitude is called the Greenwich Meridian?",
+    "options": ["0°", "90°", "180°", "270°"],
+    "answer": "0°",
+    "category": "Geography"
+  },
+  {
+    "index": 270,
+    "question": "Which tax is applied directly on income?",
+    "options": ["Indirect Tax", "GST", "Direct Tax", "Cess"],
+    "answer": "Direct Tax",
+    "category": "Economy"
+  },
+  {
+    "index": 271,
+    "question": "Which is the capital of Sri Lanka?",
+    "options": ["Colombo", "Kandy", "Jaffna", "Galle"],
+    "answer": "Colombo",
+    "category": "Geography"
+  },
+  {
+    "index": 272,
+    "question": "Which organization regulates global trade?",
+    "options": ["UN", "WTO", "IMF", "World Bank"],
+    "answer": "WTO",
+    "category": "Economy"
+  },
+  {
+    "index": 273,
+    "question": "Which reptile is known for its ability to glide?",
+    "options": ["Gecko", "Flying Dragon Lizard", "Monitor Lizard", "Chameleon"],
+    "answer": "Flying Dragon Lizard",
+    "category": "Zoology"
+  },
+  {
+    "index": 274,
+    "question": "Which is the largest state in the USA by area?",
+    "options": ["Texas", "California", "Alaska", "Montana"],
+    "answer": "Alaska",
+    "category": "Geography"
+  },
+  {
+    "index": 275,
+    "question": "Which country is called the Land of Thousand Lakes?",
+    "options": ["Sweden", "Finland", "Norway", "Canada"],
+    "answer": "Finland",
+    "category": "Geography"
+  },
+  {
+    "index": 276,
+    "question": "Which animal is known for having a pouch to carry young?",
+    "options": ["Platypus", "Kangaroo", "Whale", "Otter"],
+    "answer": "Kangaroo",
+    "category": "Zoology"
+  },
+  {
+    "index": 277,
+    "question": "Which is the busiest airport in the world by passenger traffic?",
+    "options": ["London Heathrow", "Beijing Capital", "Atlanta Hartsfield–Jackson", "Dubai International"],
+    "answer": "Atlanta Hartsfield–Jackson",
+    "category": "General"
+  },
+  {
+    "index": 278,
+    "question": "Which is the tallest waterfall in the world?",
+    "options": ["Niagara Falls", "Angel Falls", "Victoria Falls", "Iguazu Falls"],
+    "answer": "Angel Falls",
+    "category": "Geography"
+  },
+  {
+    "index": 279,
+    "question": "Which industry is associated with NIFTY 50?",
+    "options": ["Stock Market", "Clothing", "Technology", "Banking"],
+    "answer": "Stock Market",
+    "category": "Economy"
+  },
+  {
+    "index": 280,
+    "question": "Which animal has the longest tongue relative to its body size?",
+    "options": ["Anteater", "Lizard", "Giraffe", "Chameleon"],
+    "answer": "Chameleon",
+    "category": "Zoology"
+  },
+  {
+    "index": 281,
+    "question": "Which Indian city is known as the City of Joy?",
+    "options": ["Mumbai", "Kolkata", "Delhi", "Lucknow"],
+    "answer": "Kolkata",
+    "category": "Geography"
+  },
+  {
+    "index": 282,
+    "question": "Which is the national flower of India?",
+    "options": ["Rose", "Lotus", "Sunflower", "Marigold"],
+    "answer": "Lotus",
+    "category": "General"
+  },
+  {
+    "index": 283,
+    "question": "Which bird migrates the longest distance?",
+    "options": ["Swift", "Siberian Crane", "Arctic Tern", "Albatross"],
+    "answer": "Arctic Tern",
+    "category": "Zoology"
+  },
+  {
+    "index": 284,
+    "question": "Which water body separates Africa and Europe?",
+    "options": ["Red Sea", "Mediterranean Sea", "Atlantic Ocean", "Caspian Sea"],
+    "answer": "Mediterranean Sea",
+    "category": "Geography"
+  },
+  {
+    "index": 285,
+    "question": "Which Indian state is the largest producer of cotton?",
+    "options": ["Gujarat", "Punjab", "Maharashtra", "Rajasthan"],
+    "answer": "Gujarat",
+    "category": "Economy"
+  },
+  {
+    "index": 286,
+    "question": "Which is the fastest bird on Earth when diving?",
+    "options": ["Eagle", "Sparrowhawk", "Peregrine Falcon", "Albatross"],
+    "answer": "Peregrine Falcon",
+    "category": "Zoology"
+  },
+  {
+    "index": 287,
+    "question": "Which is the capital of Bangladesh?",
+    "options": ["Chittagong", "Dhaka", "Khulna", "Rajshahi"],
+    "answer": "Dhaka",
+    "category": "Geography"
+  },
+  {
+    "index": 288,
+    "question": "Which international body maintains global peace?",
+    "options": ["IMF", "UN", "WHO", "WTO"],
+    "answer": "UN",
+    "category": "General"
+  },
+  {
+    "index": 289,
+    "question": "Which fish is called the king of fishes?",
+    "options": ["Tuna", "Shark", "Salmon", "Hilsa"],
+    "answer": "Hilsa",
+    "category": "Zoology"
+  },
+  {
+    "index": 290,
+    "question": "Which is the hottest desert in the world?",
+    "options": ["Kalahari", "Sahara", "Gobi", "Atacama"],
+    "answer": "Sahara",
+    "category": "Geography"
+  },
+  {
+    "index": 291,
+    "question": "Which factor determines purchasing power parity?",
+    "options": ["Inflation", "Currency value", "GDP", "Exports"],
+    "answer": "Currency value",
+    "category": "Economy"
+  },
+  {
+    "index": 292,
+    "question": "Which mammal has the ability to echolocate?",
+    "options": ["Elephant", "Bat", "Whale", "Dog"],
+    "answer": "Bat",
+    "category": "Zoology"
+  },
+  {
+    "index": 293,
+    "question": "Which is the capital of France?",
+    "options": ["Rome", "Madrid", "Paris", "Berlin"],
+    "answer": "Paris",
+    "category": "Geography"
+  },
+  {
+    "index": 294,
+    "question": "Which is the headquarters of the World Bank?",
+    "options": ["Washington D.C.", "New York", "London", "Geneva"],
+    "answer": "Washington D.C.",
+    "category": "Economy"
+  },
+  {
+    "index": 295,
+    "question": "Which animal is known for black and white stripes?",
+    "options": ["Tiger", "Zebra", "Giraffe", "Okapi"],
+    "answer": "Zebra",
+    "category": "Zoology"
+  },
+  {
+    "index": 296,
+    "question": "Which is the deepest point in the Earth’s oceans?",
+    "options": ["Puerto Rico Trench", "Java Trench", "Mariana Trench", "Tonga Trench"],
+    "answer": "Mariana Trench",
+    "category": "Geography"
+  },
+  {
+    "index": 297,
+    "question": "Which is the largest oil importing country?",
+    "options": ["India", "USA", "China", "Japan"],
+    "answer": "China",
+    "category": "Economy"
+  },
+  {
+    "index": 298,
+    "question": "Which mammal is known for its tusks and trunk?",
+    "options": ["Walrus", "Elephant", "Rhino", "Boar"],
+    "answer": "Elephant",
+    "category": "Zoology"
+  },
+  {
+    "index": 299,
+    "question": "Which is the capital of Russia?",
+    "options": ["St. Petersburg", "Moscow", "Kiev", "Warsaw"],
+    "answer": "Moscow",
+    "category": "Geography"
+  },
+  {
+    "index": 300,
+    "question": "Which country introduced Bitcoin as legal tender?",
+    "options": ["El Salvador", "USA", "Japan", "China"],
+    "answer": "El Salvador",
+    "category": "Economy"
+  },
+  {
+    "index": 301,
+    "question": "Which bird is known as a national symbol of peace?",
+    "options": ["Pigeon", "Parrot", "Dove", "Crow"],
+    "answer": "Dove",
+    "category": "General"
+  },
+  {
+    "index": 302,
+    "question": "Which river is called Tsangpo in Tibet?",
+    "options": ["Ganga", "Yamuna", "Brahmaputra", "Indus"],
+    "answer": "Brahmaputra",
+    "category": "Geography"
+  },
+  {
+    "index": 303,
+    "question": "Which is the largest automobile manufacturing country?",
+    "options": ["Germany", "Japan", "China", "USA"],
+    "answer": "China",
+    "category": "Economy"
+  },
+  {
+    "index": 304,
+    "question": "Which animal has the longest gestation period?",
+    "options": ["Elephant", "Whale", "Horse", "Camel"],
+    "answer": "Elephant",
+    "category": "Zoology"
+  },
+  {
+    "index": 305,
+    "question": "Which is the capital of Spain?",
+    "options": ["Madrid", "Barcelona", "Valencia", "Seville"],
+    "answer": "Madrid",
+    "category": "Geography"
+  },
+  {
+    "index": 306,
+    "question": "Which is the major export of Middle Eastern countries?",
+    "options": ["Oil", "Textiles", "Rice", "Electronics"],
+    "answer": "Oil",
+    "category": "Economy"
+  },
+  {
+    "index": 307,
+    "question": "Which fish can live both in fresh and salt water?",
+    "options": ["Goldfish", "Salmon", "Trout", "Catfish"],
+    "answer": "Salmon",
+    "category": "Zoology"
+  },
+  {
+    "index": 308,
+    "question": "Which Indian city is called the City of Lakes?",
+    "options": ["Udaipur", "Bhopal", "Hyderabad", "Srinagar"],
+    "answer": "Udaipur",
+    "category": "Geography"
+  },
+  {
+    "index": 309,
+    "question": "Which is the world’s richest company by revenue?",
+    "options": ["Apple", "Amazon", "Walmart", "Saudi Aramco"],
+    "answer": "Walmart",
+    "category": "Economy"
+  },
+  {
+    "index": 310,
+    "question": "Which animal builds dams to live in water?",
+    "options": ["Otter", "Beaver", "Platypus", "Muskrat"],
+    "answer": "Beaver",
+    "category": "Zoology"
+  },
+  {
+    "index": 311,
+    "question": "Which is the capital of Italy?",
+    "options": ["Rome", "Venice", "Florence", "Milan"],
+    "answer": "Rome",
+    "category": "Geography"
+  },
+  {
+    "index": 312,
+    "question": "Which is the world’s largest exporter?",
+    "options": ["USA", "China", "Germany", "Japan"],
+    "answer": "China",
+    "category": "Economy"
+  },
+  {
+    "index": 313,
+    "question": "Which creature is known as the king of the Arctic?",
+    "options": ["Seal", "Penguin", "Polar Bear", "Walrus"],
+    "answer": "Polar Bear",
+    "category": "Zoology"
+  },
+  {
+    "index": 314,
+    "question": "Which Indian city is famous for its Charminar?",
+    "options": ["Hyderabad", "Lucknow", "Delhi", "Agra"],
+    "answer": "Hyderabad",
+    "category": "Geography"
+  },
+  {
+    "index": 315,
+    "question": "Which index represents top 30 companies in BSE?",
+    "options": ["SENSEX", "NIFTY 50", "Dow Jones", "FTSE"],
+    "answer": "SENSEX",
+    "category": "Economy"
+  },
+  {
+    "index": 316,
+    "question": "Which animal has the ability to squirt ink?",
+    "options": ["Jellyfish", "Squid", "Whale", "Shark"],
+    "answer": "Squid",
+    "category": "Zoology"
+  },
+  {
+    "index": 317,
+    "question": "Which Indian state has the highest population?",
+    "options": ["Uttar Pradesh", "Bihar", "Maharashtra", "West Bengal"],
+    "answer": "Uttar Pradesh",
+    "category": "Geography"
+  },
+  {
+    "index": 318,
+    "question": "Which is the largest trade bloc in the world?",
+    "options": ["EU", "NAFTA", "BRICS", "ASEAN"],
+    "answer": "EU",
+    "category": "Economy"
+  },
+  {
+    "index": 319,
+    "question": "Which bird is nocturnal and known for its hoot?",
+    "options": ["Crow", "Sparrow", "Owl", "Eagle"],
+    "answer": "Owl",
+    "category": "Zoology"
+  },
+  {
+    "index": 320,
+    "question": "Which mountain range forms a natural boundary for India in the north?",
+    "options": ["Andes", "Himalayas", "Rockies", "Ural"],
+    "answer": "Himalayas",
+    "category": "Geography"
+  },
+  {
+    "index": 321,
+    "question": "Which is the largest producer of cocoa in the world?",
+    "options": ["Brazil", "Ivory Coast", "Ghana", "Indonesia"],
+    "answer": "Ivory Coast",
+    "category": "Economy"
+  },
+  {
+    "index": 322,
+    "question": "Which reptile is the largest species of snake?",
+    "options": ["Python", "Anaconda", "Cobra", "Boa"],
+    "answer": "Anaconda",
+    "category": "Zoology"
+  },
+  {
+    "index": 323,
+    "question": "Which river is known as the Ganga of the South?",
+    "options": ["Krishna", "Kaveri", "Godavari", "Periyar"],
+    "answer": "Godavari",
+    "category": "Geography"
+  },
+  {
+    "index": 324,
+    "question": "Which international body handles intellectual property rights?",
+    "options": ["UNESCO", "WTO", "WIPO", "ILO"],
+    "answer": "WIPO",
+    "category": "Economy"
+  },
+  {
+    "index": 325,
+    "question": "Which mammal is the smallest in the world?",
+    "options": ["Mouse", "Shrew", "Bumblebee Bat", "Squirrel"],
+    "answer": "Bumblebee Bat",
+    "category": "Zoology"
+  },
+  {
+    "index": 326,
+    "question": "Which is the capital of Pakistan?",
+    "options": ["Islamabad", "Karachi", "Lahore", "Rawalpindi"],
+    "answer": "Islamabad",
+    "category": "Geography"
+  },
+  {
+    "index": 327,
+    "question": "Which Indian IT company was the first to be listed on NASDAQ?",
+    "options": ["Infosys", "TCS", "Wipro", "HCL"],
+    "answer": "Infosys",
+    "category": "Economy"
+  },
+  {
+    "index": 328,
+    "question": "Which animal produces pearls?",
+    "options": ["Clam", "Oyster", "Snail", "Crab"],
+    "answer": "Oyster",
+    "category": "Zoology"
+  },
+  {
+    "index": 329,
+    "question": "Which continent is called the White Continent?",
+    "options": ["Europe", "Asia", "Antarctica", "North America"],
+    "answer": "Antarctica",
+    "category": "Geography"
+  },
+  {
+    "index": 330,
+    "question": "Which country is the largest exporter of rice?",
+    "options": ["China", "Pakistan", "India", "Thailand"],
+    "answer": "India",
+    "category": "Economy"
+  },
+  {
+    "index": 331,
+    "question": "Which mammal has horns made of keratin?",
+    "options": ["Elephant", "Rhino", "Deer", "Goat"],
+    "answer": "Rhino",
+    "category": "Zoology"
+  },
+  {
+    "index": 332,
+    "question": "Which is the capital of Germany?",
+    "options": ["Munich", "Berlin", "Frankfurt", "Bonn"],
+    "answer": "Berlin",
+    "category": "Geography"
+  },
+  {
+    "index": 333,
+    "question": "Which is the world’s largest wine producer?",
+    "options": ["France", "Italy", "Spain", "USA"],
+    "answer": "Italy",
+    "category": "Economy"
+  },
+  {
+    "index": 334,
+    "question": "Which mammal has black and white fur and eats bamboo?",
+    "options": ["Panda", "Raccoon", "Skunk", "Badger"],
+    "answer": "Panda",
+    "category": "Zoology"
+  },
+  {
+    "index": 335,
+    "question": "Which is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": "Canberra",
+    "category": "Geography"
+  },
+  {
+    "index": 336,
+    "question": "Which is the richest man in the world as of 2025?",
+    "options": ["Larry Page", "Jeff Bezos", "Elon Musk", "Bernard Arnault"],
+    "answer": "Larry Page",
+    "category": "Economy"
+  },
+  {
+    "index": 337,
+    "question": "Which bird is known for its elaborate courtship dances?",
+    "options": ["Peacock", "Parrot", "Bird of Paradise", "Swan"],
+    "answer": "Bird of Paradise",
+    "category": "Zoology"
+  },
+  {
+    "index": 338,
+    "question": "Which country is known as the Land of Fire and Ice?",
+    "options": ["Iceland", "Greenland", "Norway", "Finland"],
+    "answer": "Iceland",
+    "category": "Geography"
+  },
+  {
+    "index": 339,
+    "question": "Which economic term refers to government spending exceeding revenue?",
+    "options": ["Fiscal Deficit", "Revenue Gain", "Inflation", "Profit Margin"],
+    "answer": "Fiscal Deficit",
+    "category": "Economy"
+  },
+  {
+    "index": 340,
+    "question": "Which mammal spends most of its time upside down on trees?",
+    "options": ["Monkey", "Bat", "Sloth", "Lemur"],
+    "answer": "Sloth",
+    "category": "Zoology"
+  },
+  {
+    "index": 341,
+    "question": "Which is the capital city of South Africa?",
+    "options": ["Cape Town", "Pretoria", "Johannesburg", "Durban"],
+    "answer": "Pretoria",
+    "category": "Geography"
+  },
+  {
+    "index": 342,
+    "question": "Which economic concept states 'higher price leads to lower demand'?",
+    "options": ["Supply Law", "Demand Law", "Elasticity", "Scarcity Principle"],
+    "answer": "Demand Law",
+    "category": "Economy"
+  },
+  {
+    "index": 343,
+    "question": "Which mammal is known for producing milk with the highest fat content?",
+    "options": ["Cow", "Dolphin", "Seal", "Whale"],
+    "answer": "Seal",
+    "category": "Zoology"
+  },
+  {
+    "index": 344,
+    "question": "Which sea separates Europe and Africa?",
+    "options": ["Baltic Sea", "Black Sea", "Mediterranean Sea", "Caspian Sea"],
+    "answer": "Mediterranean Sea",
+    "category": "Geography"
+  },
+  {
+    "index": 345,
+    "question": "Which country is known as the 'Emerald Isle'?",
+    "options": ["Scotland", "Ireland", "Wales", "Iceland"],
+    "answer": "Ireland",
+    "category": "Geography"
+  },
+  {
+    "index": 346,
+    "question": "Which organ of the United Nations is responsible for international peace and security?",
+    "options": ["UNESCO", "Security Council", "General Assembly", "World Bank"],
+    "answer": "Security Council",
+    "category": "General"
+  },
+  {
+    "index": 347,
+    "question": "Which bird is known for running at high speeds instead of flying?",
+    "options": ["Emu", "Peacock", "Swan", "Crow"],
+    "answer": "Emu",
+    "category": "Zoology"
+  },
+  {
+    "index": 348,
+    "question": "Which is the largest river in India by length?",
+    "options": ["Ganga", "Godavari", "Yamuna", "Brahmaputra"],
+    "answer": "Ganga",
+    "category": "Geography"
+  },
+  {
+    "index": 349,
+    "question": "Which body regulates the telecom sector in India?",
+    "options": ["TRAI", "BSNL", "DoT", "MTNL"],
+    "answer": "TRAI",
+    "category": "Economy"
+  },
+  {
+    "index": 350,
+    "question": "Which reptile is the largest snake in India?",
+    "options": ["King Cobra", "Python", "Russell Viper", "Boa"],
+    "answer": "Python",
+    "category": "Zoology"
+  },
+  {
+    "index": 351,
+    "question": "Which mountain pass connects India and China in Ladakh?",
+    "options": ["Nathu La", "Khardung La", "Rohtang Pass", "Banihal Pass"],
+    "answer": "Khardung La",
+    "category": "Geography"
+  },
+  {
+    "index": 352,
+    "question": "Which country has the world’s largest foreign exchange reserves?",
+    "options": ["India", "China", "Japan", "USA"],
+    "answer": "China",
+    "category": "Economy"
+  },
+  {
+    "index": 353,
+    "question": "Which mammal has a horn in the center of its head?",
+    "options": ["Rhino", "Unicorn (mythical)", "Buffalo", "Yak"],
+    "answer": "Rhino",
+    "category": "Zoology"
+  },
+  {
+    "index": 354,
+    "question": "Which is the capital of Greece?",
+    "options": ["Rome", "Athens", "Sofia", "Istanbul"],
+    "answer": "Athens",
+    "category": "Geography"
+  },
+  {
+    "index": 355,
+    "question": "Which economic indicator measures growth rate of a nation?",
+    "options": ["Inflation Index", "GDP Growth", "Population Rate", "Unemployment Rate"],
+    "answer": "GDP Growth",
+    "category": "Economy"
+  },
+  {
+    "index": 356,
+    "question": "Which animal is known for its long neck?",
+    "options": ["Camel", "Giraffe", "Elephant", "Horse"],
+    "answer": "Giraffe",
+    "category": "Zoology"
+  },
+  {
+    "index": 357,
+    "question": "Which is the largest saltwater lake in the world?",
+    "options": ["Lake Superior", "Lake Baikal", "Caspian Sea", "Great Salt Lake"],
+    "answer": "Caspian Sea",
+    "category": "Geography"
+  },
+  {
+    "index": 358,
+    "question": "Which organization releases the World Economic Outlook?",
+    "options": ["World Bank", "IMF", "WTO", "OECD"],
+    "answer": "IMF",
+    "category": "Economy"
+  },
+  {
+    "index": 359,
+    "question": "Which mammal is called the sea cow?",
+    "options": ["Whale", "Dugong", "Seal", "Dolphin"],
+    "answer": "Dugong",
+    "category": "Zoology"
+  },
+  {
+    "index": 360,
+    "question": "Which city is located on the banks of the Ganga?",
+    "options": ["Varanasi", "Delhi", "Kolkata", "Kanpur"],
+    "answer": "Varanasi",
+    "category": "Geography"
+  },
+  {
+    "index": 361,
+    "question": "In reasoning, what is the next number in the series: 2, 4, 8, 16, ?",
+    "options": ["18", "20", "24", "32"],
+    "answer": "32",
+    "category": "Reasoning"
+  },
+  {
+    "index": 362,
+    "question": "Which global institution provides loans for development projects?",
+    "options": ["IMF", "WHO", "World Bank", "SAARC"],
+    "answer": "World Bank",
+    "category": "Economy"
+  },
+  {
+    "index": 363,
+    "question": "Which bird is the national bird of USA?",
+    "options": ["Bald Eagle", "Crow", "Hawk", "Falcon"],
+    "answer": "Bald Eagle",
+    "category": "General"
+  },
+  {
+    "index": 364,
+    "question": "Which desert is spread across Chile?",
+    "options": ["Kalahari", "Sahara", "Atacama", "Patagonian"],
+    "answer": "Atacama",
+    "category": "Geography"
+  },
+  {
+    "index": 365,
+    "question": "Which economic system is based on state control?",
+    "options": ["Planned Economy", "Market Economy", "Mixed Economy", "Traditional Economy"],
+    "answer": "Planned Economy",
+    "category": "Economy"
+  },
+  {
+    "index": 366,
+    "question": "Which animal spends 90% of its life asleep?",
+    "options": ["Koala", "Panda", "Cat", "Bat"],
+    "answer": "Koala",
+    "category": "Zoology"
+  },
+  {
+    "index": 367,
+    "question": "Which continent is also a country?",
+    "options": ["Asia", "Australia", "Europe", "Africa"],
+    "answer": "Australia",
+    "category": "Geography"
+  },
+  {
+    "index": 368,
+    "question": "Which term in economics refers to the value of exports minus imports?",
+    "options": ["Trade Surplus", "Balance of Trade", "Capital Account", "Fiscal Balance"],
+    "answer": "Balance of Trade",
+    "category": "Economy"
+  },
+  {
+    "index": 369,
+    "question": "Which deer species has the largest antlers?",
+    "options": ["Moose", "Reindeer", "Sambar", "Elk"],
+    "answer": "Moose",
+    "category": "Zoology"
+  },
+  {
+    "index": 370,
+    "question": "Which is the hottest place on Earth?",
+    "options": ["Sahara", "Death Valley", "Atacama", "Siberia"],
+    "answer": "Death Valley",
+    "category": "Geography"
+  },
+  {
+    "index": 371,
+    "question": "Which economic term measures reduction in price levels?",
+    "options": ["Inflation", "Deflation", "Stagnation", "Depression"],
+    "answer": "Deflation",
+    "category": "Economy"
+  },
+  {
+    "index": 372,
+    "question": "Which animal is famous for building coral reefs?",
+    "options": ["Octopus", "Coral Polyps", "Starfish", "Crab"],
+    "answer": "Coral Polyps",
+    "category": "Zoology"
+  },
+  {
+    "index": 373,
+    "question": "Which is the longest river in South America?",
+    "options": ["Amazon", "Parana", "Orinoco", "Madeira"],
+    "answer": "Amazon",
+    "category": "Geography"
+  },
+  {
+    "index": 374,
+    "question": "Which international organization maintains global health standards?",
+    "options": ["UNICEF", "UNESCO", "WHO", "FAO"],
+    "answer": "WHO",
+    "category": "General"
+  },
+  {
+    "index": 375,
+    "question": "Which bird is considered the fastest animal on land or sky?",
+    "options": ["Sparrow", "Peregrine Falcon", "Eagle", "Cheetah"],
+    "answer": "Peregrine Falcon",
+    "category": "Zoology"
+  },
+  {
+    "index": 376,
+    "question": "Which is the capital of Egypt?",
+    "options": ["Cairo", "Alexandria", "Luxor", "Khartoum"],
+    "answer": "Cairo",
+    "category": "Geography"
+  },
+  {
+    "index": 377,
+    "question": "Which organization sets global labor standards?",
+    "options": ["ILO", "UN", "WTO", "IMF"],
+    "answer": "ILO",
+    "category": "General"
+  },
+  {
+    "index": 378,
+    "question": "Which animal has the ability to hibernate during winter?",
+    "options": ["Bear", "Tiger", "Wolf", "Fox"],
+    "answer": "Bear",
+    "category": "Zoology"
+  },
+  {
+    "index": 379,
+    "question": "Which is the capital of Turkey?",
+    "options": ["Istanbul", "Ankara", "Izmir", "Bursa"],
+    "answer": "Ankara",
+    "category": "Geography"
+  },
+  {
+    "index": 380,
+    "question": "Which financial body regulates insurance in India?",
+    "options": ["SEBI", "RBI", "IRDAI", "NABARD"],
+    "answer": "IRDAI",
+    "category": "Economy"
+  },
+  {
+    "index": 381,
+    "question": "Which sea animal is known as a living fossil?",
+    "options": ["Whale", "Crocodile", "Coelacanth", "Shark"],
+    "answer": "Coelacanth",
+    "category": "Zoology"
+  },
+  {
+    "index": 382,
+    "question": "Which line divides the Eastern and Western Hemisphere?",
+    "options": ["Equator", "Prime Meridian", "Tropic of Cancer", "Longitude 180"],
+    "answer": "Prime Meridian",
+    "category": "Geography"
+  },
+  {
+    "index": 383,
+    "question": "Which economic strategy promotes exports and reduces imports?",
+    "options": ["Protectionism", "Liberalization", "Globalization", "Privatization"],
+    "answer": "Protectionism",
+    "category": "Economy"
+  },
+  {
+    "index": 384,
+    "question": "Which bird is sacred and associated with wisdom in Greek mythology?",
+    "options": ["Crow", "Swan", "Owl", "Falcon"],
+    "answer": "Owl",
+    "category": "General"
+  },
+  {
+    "index": 385,
+    "question": "Which is the capital of Kenya?",
+    "options": ["Nairobi", "Mombasa", "Dodoma", "Kigali"],
+    "answer": "Nairobi",
+    "category": "Geography"
+  },
+  {
+    "index": 386,
+    "question": "Which World Bank program eradicates poverty?",
+    "options": ["SAARC fund", "SDG Goals", "IDA", "G20 Reform"],
+    "answer": "IDA",
+    "category": "Economy"
+  },
+  {
+    "index": 387,
+    "question": "Which animal is known as the tallest terrestrial animal?",
+    "options": ["Camel", "Elephant", "Giraffe", "Horse"],
+    "answer": "Giraffe",
+    "category": "Zoology"
+  },
+  {
+    "index": 388,
+    "question": "Which canal connects the Atlantic and Pacific Oceans?",
+    "options": ["Suez Canal", "Panama Canal", "Kiel Canal", "Corinth Canal"],
+    "answer": "Panama Canal",
+    "category": "Geography"
+  },
+  {
+    "index": 389,
+    "question": "Which concept in economics means single seller dominates the market?",
+    "options": ["Monopoly", "Oligopoly", "Perfect Competition", "Cartel"],
+    "answer": "Monopoly",
+    "category": "Economy"
+  },
+  {
+    "index": 390,
+    "question": "Which animal is known for living both in water and land?",
+    "options": ["Tortoise", "Crocodile", "Frog", "Snake"],
+    "answer": "Frog",
+    "category": "Zoology"
+  },
+  {
+    "index": 391,
+    "question": "Which is the capital of Argentina?",
+    "options": ["Buenos Aires", "Rosario", "Lima", "Santiago"],
+    "answer": "Buenos Aires",
+    "category": "Geography"
+  },
+  {
+    "index": 392,
+    "question": "Which is the financial regulator of UK?",
+    "options": ["FCA", "SEC", "BoE", "EU Parliament"],
+    "answer": "FCA",
+    "category": "Economy"
+  },
+  {
+    "index": 393,
+    "question": "Which mammal has the largest brain?",
+    "options": ["Elephant", "Whale", "Dolphin", "Human"],
+    "answer": "Sperm Whale",
+    "category": "Zoology"
+  },
+  {
+    "index": 394,
+    "question": "Which is the driest desert in the world?",
+    "options": ["Kalahari", "Atacama", "Sahara", "Gobi"],
+    "answer": "Atacama",
+    "category": "Geography"
+  },
+  {
+    "index": 395,
+    "question": "Which policy encourages free trade and no tariffs?",
+    "options": ["Mercantilism", "Laissez-faire", "Protectionism", "Subsidy"],
+    "answer": "Laissez-faire",
+    "category": "Economy"
+  },
+  {
+    "index": 396,
+    "question": "Which fish is known for swimming upstream to spawn?",
+    "options": ["Catfish", "Salmon", "Trout", "Carp"],
+    "answer": "Salmon",
+    "category": "Zoology"
+  },
+  {
+    "index": 397,
+    "question": "Which is the capital of Thailand?",
+    "options": ["Bangkok", "Phuket", "Chiang Mai", "Ayutthaya"],
+    "answer": "Bangkok",
+    "category": "Geography"
+  },
+  {
+    "index": 398,
+    "question": "Which economic concept means 'next best alternative forgone'?",
+    "options": ["Utility", "Opportunity Cost", "Scarcity", "Trade-off"],
+    "answer": "Opportunity Cost",
+    "category": "Economy"
+  },
+  {
+    "index": 399,
+    "question": "Which mammal can hold its breath underwater the longest?",
+    "options": ["Seal", "Sperm Whale", "Dolphin", "Elephant"],
+    "answer": "Sperm Whale",
+    "category": "Zoology"
+  },
+  {
+    "index": 400,
+    "question": "Which strait separates Asia and North America?",
+    "options": ["Bosporus", "Bering Strait", "Palk Strait", "Hormuz"],
+    "answer": "Bering Strait",
+    "category": "Geography"
+  },
+  {
+    "index": 401,
+    "question": "Which type of economy exists when government and private sector both coexist?",
+    "options": ["Planned", "Market", "Traditional", "Mixed"],
+    "answer": "Mixed",
+    "category": "Economy"
+  },
+  {
+    "index": 402,
+    "question": "Which creature has eight arms and can camouflage instantly?",
+    "options": ["Squid", "Octopus", "Starfish", "Crab"],
+    "answer": "Octopus",
+    "category": "Zoology"
+  },
+  {
+    "index": 403,
+    "question": "Which is the capital of Afghanistan?",
+    "options": ["Kabul", "Kandahar", "Herat", "Mazar-i-Sharif"],
+    "answer": "Kabul",
+    "category": "Geography"
+  },
+  {
+    "index": 404,
+    "question": "Which term describes a prolonged decline in economic activity?",
+    "options": ["Inflation", "Deflation", "Recession", "Depression"],
+    "answer": "Recession",
+    "category": "Economy"
+  },
+  {
+    "index": 405,
+    "question": "Which mammal lays eggs besides Platypus?",
+    "options": ["Kangaroo", "Echidna", "Bat", "Panda"],
+    "answer": "Echidna",
+    "category": "Zoology"
+  },
+  {
+    "index": 406,
+    "question": "Which city is known as the Eternal City?",
+    "options": ["Rome", "Paris", "London", "Athens"],
+    "answer": "Rome",
+    "category": "Geography"
+  },
+  {
+    "index": 407,
+    "question": "Which global organization coordinates monetary policy?",
+    "options": ["IMF", "World Bank", "UN", "OECD"],
+    "answer": "IMF",
+    "category": "Economy"
+  },
+  {
+    "index": 408,
+    "question": "Which flightless bird is native to New Zealand?",
+    "options": ["Emu", "Ostrich", "Kiwi", "Penguin"],
+    "answer": "Kiwi",
+    "category": "Zoology"
+  },
+  {
+    "index": 409,
+    "question": "Which is the capital of Canada?",
+    "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+    "answer": "Ottawa",
+    "category": "Geography"
+  },
+  {
+    "index": 410,
+    "question": "Which measure in economics focuses on per person income of a country?",
+    "options": ["GDP per capita", "Total GDP", "Inflation Index", "Purchasing Power"],
+    "answer": "GDP per capita",
+    "category": "Economy"
+  },
+  {
+    "index": 411,
+    "question": "Which is the capital of New Zealand?",
+    "options": ["Auckland", "Wellington", "Christchurch", "Hamilton"],
+    "answer": "Wellington",
+    "category": "Geography"
+  },
+  {
+    "index": 412,
+    "question": "Which economic term means fall in general price levels?",
+    "options": ["Inflation", "Deflation", "Recession", "Growth"],
+    "answer": "Deflation",
+    "category": "Economy"
+  },
+  {
+    "index": 413,
+    "question": "Which mammal is capable of true flight?",
+    "options": ["Bat", "Flying Squirrel", "Bird", "Colugo"],
+    "answer": "Bat",
+    "category": "Zoology"
+  },
+  {
+    "index": 414,
+    "question": "Which is the capital of Brazil?",
+    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+    "answer": "Brasília",
+    "category": "Geography"
+  },
+  {
+    "index": 415,
+    "question": "Which global institution promotes free trade worldwide?",
+    "options": ["WTO", "IMF", "UN", "OECD"],
+    "answer": "WTO",
+    "category": "Economy"
+  },
+  {
+    "index": 416,
+    "question": "Which animal has the highest blood pressure?",
+    "options": ["Elephant", "Giraffe", "Horse", "Lion"],
+    "answer": "Giraffe",
+    "category": "Zoology"
+  },
+  {
+    "index": 417,
+    "question": "Which is the capital of Myanmar?",
+    "options": ["Yangon", "Naypyidaw", "Mandalay", "Bagan"],
+    "answer": "Naypyidaw",
+    "category": "Geography"
+  },
+  {
+    "index": 418,
+    "question": "Which currency is shared by multiple European countries?",
+    "options": ["Pound", "Euro", "Franc", "Krone"],
+    "answer": "Euro",
+    "category": "Economy"
+  },
+  {
+    "index": 419,
+    "question": "Which animal has a pouch besides kangaroo?",
+    "options": ["Koala", "Whale", "Wolf", "Fox"],
+    "answer": "Koala",
+    "category": "Zoology"
+  },
+  {
+    "index": 420,
+    "question": "Which is the capital of Iran?",
+    "options": ["Tehran", "Shiraz", "Tabriz", "Isfahan"],
+    "answer": "Tehran",
+    "category": "Geography"
+  },
+  {
+    "index": 421,
+    "question": "Which economic system is based entirely on supply and demand?",
+    "options": ["Market Economy", "Mixed Economy", "Planned Economy", "Traditional Economy"],
+    "answer": "Market Economy",
+    "category": "Economy"
+  },
+  {
+    "index": 422,
+    "question": "Which animal has the thickest fur?",
+    "options": ["Seal", "Polar Bear", "Sea Otter", "Dog"],
+    "answer": "Sea Otter",
+    "category": "Zoology"
+  },
+  {
+    "index": 423,
+    "question": "Which is the capital of Iraq?",
+    "options": ["Baghdad", "Mosul", "Basra", "Karbala"],
+    "answer": "Baghdad",
+    "category": "Geography"
+  },
+  {
+    "index": 424,
+    "question": "Which term refers to the rise in general price levels?",
+    "options": ["Deflation", "Inflation", "Stagnation", "Depression"],
+    "answer": "Inflation",
+    "category": "Economy"
+  },
+  {
+    "index": 425,
+    "question": "Which bird cannot fly but can swim?",
+    "options": ["Penguin", "Ostrich", "Kiwi", "Emu"],
+    "answer": "Penguin",
+    "category": "Zoology"
+  },
+  {
+    "index": 426,
+    "question": "Which is the capital of Nigeria?",
+    "options": ["Lagos", "Abuja", "Kano", "Ibadan"],
+    "answer": "Abuja",
+    "category": "Geography"
+  },
+  {
+    "index": 427,
+    "question": "Which financial measure indicates national income?",
+    "options": ["GDP", "CPI", "FDI", "Forex"],
+    "answer": "GDP",
+    "category": "Economy"
+  },
+  {
+    "index": 428,
+    "question": "Which animal produces the loudest sound?",
+    "options": ["Elephant", "Blue Whale", "Howler Monkey", "Lion"],
+    "answer": "Blue Whale",
+    "category": "Zoology"
+  },
+  {
+    "index": 429,
+    "question": "Which is the capital of Ethiopia?",
+    "options": ["Addis Ababa", "Asmara", "Nairobi", "Kigali"],
+    "answer": "Addis Ababa",
+    "category": "Geography"
+  },
+  {
+    "index": 430,
+    "question": "Which policy reduces government restrictions on business?",
+    "options": ["Globalization", "Privatization", "Liberalization", "Protectionism"],
+    "answer": "Liberalization",
+    "category": "Economy"
+  },
+  {
+    "index": 431,
+    "question": "Which mammal has the longest migration route?",
+    "options": ["Elephant", "Blue Whale", "Gray Whale", "Caribou"],
+    "answer": "Gray Whale",
+    "category": "Zoology"
+  },
+  {
+    "index": 432,
+    "question": "Which is the capital of South Korea?",
+    "options": ["Seoul", "Busan", "Incheon", "Daegu"],
+    "answer": "Seoul",
+    "category": "Geography"
+  },
+  {
+    "index": 433,
+    "question": "Which economic indicator measures price changes in consumer goods?",
+    "options": ["CPI", "GDP", "NPA", "Repo Rate"],
+    "answer": "CPI",
+    "category": "Economy"
+  },
+  {
+    "index": 434,
+    "question": "Which bird has the largest wingspan?",
+    "options": ["Albatross", "Condor", "Eagle", "Vulture"],
+    "answer": "Albatross",
+    "category": "Zoology"
+  },
+  {
+    "index": 435,
+    "question": "Which is the capital of Spain?",
+    "options": ["Madrid", "Barcelona", "Seville", "Valencia"],
+    "answer": "Madrid",
+    "category": "Geography"
+  },
+  {
+    "index": 436,
+    "question": "Which international body promotes global financial stability?",
+    "options": ["IMF", "WHO", "WTO", "FAO"],
+    "answer": "IMF",
+    "category": "Economy"
+  },
+  {
+    "index": 437,
+    "question": "Which mammal has the best sense of smell?",
+    "options": ["Dog", "Elephant", "Bear", "Tiger"],
+    "answer": "Bear",
+    "category": "Zoology"
+  },
+  {
+    "index": 438,
+    "question": "Which is the capital of France?",
+    "options": ["Paris", "Berlin", "Rome", "Madrid"],
+    "answer": "Paris",
+    "category": "Geography"
+  },
+  {
+    "index": 439,
+    "question": "Which industry is considered the backbone of IT in India?",
+    "options": ["BPO", "Software Services", "Hardware Manufacturing", "Telecom"],
+    "answer": "Software Services",
+    "category": "Science and Technology"
+  },
+  {
+    "index": 440,
+    "question": "Which sea animal has three hearts?",
+    "options": ["Octopus", "Squid", "Stingray", "Jellyfish"],
+    "answer": "Octopus",
+    "category": "Zoology"
+  },
+  {
+    "index": 441,
+    "question": "Which is the capital of Canada?",
+    "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+    "answer": "Ottawa",
+    "category": "Geography"
+  },
+  {
+    "index": 442,
+    "question": "Which type of tax is GST in India?",
+    "options": ["Direct", "Indirect", "Custom", "Excise"],
+    "answer": "Indirect",
+    "category": "Economy"
+  },
+  {
+    "index": 443,
+    "question": "Which bird is known as the national bird of Australia?",
+    "options": ["Kangaroo", "Emu", "Ostrich", "Koala"],
+    "answer": "Emu",
+    "category": "Zoology"
+  },
+  {
+    "index": 444,
+    "question": "Which is the capital of Italy?",
+    "options": ["Paris", "Rome", "Milan", "Venice"],
+    "answer": "Rome",
+    "category": "Geography"
+  },
+  {
+    "index": 445,
+    "question": "Which stock index tracks 30 American companies?",
+    "options": ["SENSEX", "NIFTY 50", "NASDAQ-100", "Dow Jones"],
+    "answer": "Dow Jones",
+    "category": "Economy"
+  },
+  {
+    "index": 446,
+    "question": "Which fish has both lungs and gills?",
+    "options": ["Eel", "Shark", "Lungfish", "Trout"],
+    "answer": "Lungfish",
+    "category": "Zoology"
+  },
+  {
+    "index": 447,
+    "question": "Which is the capital of Germany?",
+    "options": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+    "answer": "Berlin",
+    "category": "Geography"
+  },
+  {
+    "index": 448,
+    "question": "Which organization was set up to regulate competition in India?",
+    "options": ["CCI", "SEBI", "TRAI", "FCA"],
+    "answer": "CCI",
+    "category": "Economy"
+  },
+  {
+    "index": 449,
+    "question": "Which mammal is able to fly?",
+    "options": ["Bat", "Pigeon", "Eagle", "Butterfly"],
+    "answer": "Bat",
+    "category": "Zoology"
+  },
+  {
+    "index": 450,
+    "question": "Which is the capital of Thailand?",
+    "options": ["Bangkok", "Chiang Mai", "Phuket", "Ayutthaya"],
+    "answer": "Bangkok",
+    "category": "Geography"
+  },
+  {
+    "index": 451,
+    "question": "Which is the world’s largest stock exchange by market capitalization?",
+    "options": ["BSE", "NASDAQ", "NYSE", "LSE"],
+    "answer": "NYSE",
+    "category": "Economy"
+  },
+  {
+    "index": 452,
+    "question": "Which fish is the fastest swimmer?",
+    "options": ["Sailfish", "Shark", "Tuna", "Marlin"],
+    "answer": "Sailfish",
+    "category": "Zoology"
+  },
+  {
+    "index": 453,
+    "question": "Which is the capital of Saudi Arabia?",
+    "options": ["Riyadh", "Jeddah", "Mecca", "Medina"],
+    "answer": "Riyadh",
+    "category": "Geography"
+  },
+  {
+    "index": 454,
+    "question": "Which economic term refers to government-owned enterprises?",
+    "options": ["PSU", "FDI", "PPP", "SME"],
+    "answer": "PSU",
+    "category": "Economy"
+  },
+  {
+    "index": 455,
+    "question": "Which animal has the longest tail among mammals?",
+    "options": ["Giraffe", "Kangaroo", "Monkey", "Whale"],
+    "answer": "Giraffe",
+    "category": "Zoology"
+  },
+  {
+    "index": 456,
+    "question": "Which is the capital of Japan?",
+    "options": ["Tokyo", "Kyoto", "Osaka", "Sapporo"],
+    "answer": "Tokyo",
+    "category": "Geography"
+  },
+  {
+    "index": 457,
+    "question": "Which international initiative focuses on climate change?",
+    "options": ["SDGs", "Paris Agreement", "BREXIT", "Doha Round"],
+    "answer": "Paris Agreement",
+    "category": "General"
+  },
+  {
+    "index": 458,
+    "question": "Which is the capital of Russia?",
+    "options": ["Moscow", "St. Petersburg", "Kazan", "Novosibirsk"],
+    "answer": "Moscow",
+    "category": "Geography"
+  },
+  {
+    "index": 459,
+    "question": "Which is the largest consumer of oil in the world?",
+    "options": ["India", "China", "Japan", "USA"],
+    "answer": "USA",
+    "category": "Economy"
+  },
+  {
+    "index": 460,
+    "question": "Which mammal is covered with quills?",
+    "options": ["Hedgehog", "Porcupine", "Pangolin", "Armadillo"],
+    "answer": "Porcupine",
+    "category": "Zoology"
+  },
+  {
+    "index": 461,
+    "question": "Which is the capital of United Kingdom?",
+    "options": ["London", "Manchester", "Cardiff", "Birmingham"],
+    "answer": "London",
+    "category": "Geography"
+  },
+  {
+    "index": 462,
+    "question": "Which body represents the 20 largest economies of the world?",
+    "options": ["BRICS", "SAARC", "G20", "OECD"],
+    "answer": "G20",
+    "category": "Economy"
+  },
+  {
+    "index": 463,
+    "question": "Which marine animal is known as Orca?",
+    "options": ["Shark", "Dolphin", "Killer Whale", "Seal"],
+    "answer": "Killer Whale",
+    "category": "Zoology"
+  },
+  {
+    "index": 464,
+    "question": "Which is the capital of South Africa’s legislative branch?",
+    "options": ["Pretoria", "Cape Town", "Durban", "Johannesburg"],
+    "answer": "Cape Town",
+    "category": "Geography"
+  },
+  {
+    "index": 465,
+    "question": "Which index measures business confidence in India?",
+    "options": ["NIFTY 50", "IIP", "SENSEX", "BCI"],
+    "answer": "BCI",
+    "category": "Economy"
+  },
+  {
+    "index": 466,
+    "question": "Which bird lays the largest egg?",
+    "options": ["Swan", "Ostrich", "Eagle", "Emu"],
+    "answer": "Ostrich",
+    "category": "Zoology"
+  },
+  {
+    "index": 467,
+    "question": "Which is the capital of USA?",
+    "options": ["Los Angeles", "New York", "Washington D.C.", "Chicago"],
+    "answer": "Washington D.C.",
+    "category": "Geography"
+  },
+  {
+    "index": 468,
+    "question": "Which report monitors global competitiveness?",
+    "options": ["Human Index Report", "Global Competitiveness Report", "Ease of Business Report", "Sustainability Index"],
+    "answer": "Global Competitiveness Report",
+    "category": "Economy"
+  },
+  {
+    "index": 469,
+    "question": "Which sea mammal inflates to scare predators?",
+    "options": ["Seal", "Pufferfish", "Dolphin", "Orca"],
+    "answer": "Pufferfish",
+    "category": "Zoology"
+  },
+  {
+    "index": 470,
+    "question": "Which is the capital of China?",
+    "options": ["Shanghai", "Beijing", "Guangzhou", "Shenzhen"],
+    "answer": "Beijing",
+    "category": "Geography"
+  },
+  {
+    "index": 471,
+    "question": "Which economic concept highlights supply shortages?",
+    "options": ["Inflation", "Stagflation", "Scarcity", "Overproduction"],
+    "answer": "Scarcity",
+    "category": "Economy"
+  },
+  {
+    "index": 472,
+    "question": "Which mammal is the fastest swimmer?",
+    "options": ["Seal", "Dolphin", "Orca", "Blue Whale"],
+    "answer": "Dolphin",
+    "category": "Zoology"
+  },
+  {
+    "index": 473,
+    "question": "Which is the capital of Mexico?",
+    "options": ["Guadalajara", "Cancun", "Mexico City", "Tijuana"],
+    "answer": "Mexico City",
+    "category": "Geography"
+  },
+  {
+    "index": 474,
+    "question": "Which Indian institution manages monetary policy?",
+    "options": ["RBI", "SEBI", "NABARD", "IRDAI"],
+    "answer": "RBI",
+    "category": "Economy"
+  },
+  {
+    "index": 475,
+    "question": "Which creature is nicknamed the sea horse?",
+    "options": ["Starfish", "Seahorse", "Dugong", "Manatee"],
+    "answer": "Seahorse",
+    "category": "Zoology"
+  },
+  {
+    "index": 476,
+    "question": "Which is the capital of Indonesia?",
+    "options": ["Jakarta", "Bali", "Bandung", "Medan"],
+    "answer": "Jakarta",
+    "category": "Geography"
+  },
+  {
+    "index": 477,
+    "question": "Which measure tracks food inflation in India?",
+    "options": ["CPI", "WPI", "GDP", "NPA"],
+    "answer": "WPI",
+    "category": "Economy"
+  },
+  {
+    "index": 478,
+    "question": "Which mammal is the slowest moving in the world?",
+    "options": ["Snail", "Tortoise", "Sloth", "Panda"],
+    "answer": "Sloth",
+    "category": "Zoology"
+  },
+  {
+    "index": 479,
+    "question": "Which is the capital of Singapore?",
+    "options": ["Singapore", "Kuala Lumpur", "Bangkok", "Manila"],
+    "answer": "Singapore",
+    "category": "Geography"
+  },
+  {
+    "index": 480,
+    "question": "Which economic indicator measures stock market confidence?",
+    "options": ["GDP", "SENSEX", "Repo Rate", "CRR"],
+    "answer": "SENSEX",
+    "category": "Economy"
+  },
+  {
+    "index": 481,
+    "question": "Which bird is a universal symbol of freedom?",
+    "options": ["Eagle", "Crow", "Swan", "Pigeon"],
+    "answer": "Eagle",
+    "category": "General"
+  },
+  {
+    "index": 482,
+    "question": "Which is the capital of Pakistan?",
+    "options": ["Karachi", "Islamabad", "Lahore", "Peshawar"],
+    "answer": "Islamabad",
+    "category": "Geography"
+  },
+  {
+    "index": 483,
+    "question": "Which is India’s largest milk producing state?",
+    "options": ["Punjab", "Rajasthan", "Uttar Pradesh", "Gujarat"],
+    "answer": "Uttar Pradesh",
+    "category": "Economy"
+  },
+  {
+    "index": 484,
+    "question": "Which mammal communicates using infrasound?",
+    "options": ["Tiger", "Whale", "Elephant", "Dog"],
+    "answer": "Elephant",
+    "category": "Zoology"
+  },
+  {
+    "index": 485,
+    "question": "Which is the capital of Argentina?",
+    "options": ["Buenos Aires", "Lima", "Santiago", "Caracas"],
+    "answer": "Buenos Aires",
+    "category": "Geography"
+  },
+  {
+    "index": 486,
+    "question": "Which economic body in India monitors inflation?",
+    "options": ["SEBI", "RBI", "IRDAI", "NABARD"],
+    "answer": "RBI",
+    "category": "Economy"
+  },
+  {
+    "index": 487,
+    "question": "Which reptile can shed its tail to escape predators?",
+    "options": ["Snake", "Lizard", "Crocodile", "Turtle"],
+    "answer": "Lizard",
+    "category": "Zoology"
+  },
+  {
+    "index": 488,
+    "question": "Which is the capital of South Sudan?",
+    "options": ["Khartoum", "Kampala", "Juba", "Dodoma"],
+    "answer": "Juba",
+    "category": "Geography"
+  },
+  {
+    "index": 489,
+    "question": "Which index tracks industrial output in India?",
+    "options": ["IIP", "NIFTY", "GDP", "CPI"],
+    "answer": "IIP",
+    "category": "Economy"
+  },
+  {
+    "index": 490,
+    "question": "Which mammal can see ultraviolet light?",
+    "options": ["Deer", "Cat", "Dog", "Bat"],
+    "answer": "Deer",
+    "category": "Zoology"
+  },
+  {
+    "index": 491,
+    "question": "Which is the capital of Kenya?",
+    "options": ["Nairobi", "Kampala", "Dodoma", "Lusaka"],
+    "answer": "Nairobi",
+    "category": "Geography"
+  },
+  {
+    "index": 492,
+    "question": "Which economic concept stresses maximization of welfare?",
+    "options": ["Efficiency", "Equity", "Scarcity", "Monetization"],
+    "answer": "Efficiency",
+    "category": "Economy"
+  },
+  {
+    "index": 493,
+    "question": "Which insect is the largest of its kind?",
+    "options": ["Beetle", "Moth", "Weta", "Dragonfly"],
+    "answer": "Weta",
+    "category": "Zoology"
+  },
+  {
+    "index": 494,
+    "question": "Which is the capital of Norway?",
+    "options": ["Copenhagen", "Stockholm", "Oslo", "Helsinki"],
+    "answer": "Oslo",
+    "category": "Geography"
+  },
+  {
+    "index": 495,
+    "question": "Which term describes fall in employment along with stagnation?",
+    "options": ["Inflation", "Stagflation", "Depression", "Recession"],
+    "answer": "Stagflation",
+    "category": "Economy"
+  },
+  {
+    "index": 496,
+    "question": "Which fish has transparent body?",
+    "options": ["Catfish", "Ghost Fish", "Glass Catfish", "Eel"],
+    "answer": "Glass Catfish",
+    "category": "Zoology"
+  },
+  {
+    "index": 497,
+    "question": "Which is the capital of Sweden?",
+    "options": ["Helsinki", "Stockholm", "Oslo", "Copenhagen"],
+    "answer": "Stockholm",
+    "category": "Geography"
+  },
+  {
+    "index": 498,
+    "question": "Which economic policy supports banks during crises?",
+    "options": ["Fiscal Policy", "Bailout", "Monetary Policy", "Subsidy"],
+    "answer": "Bailout",
+    "category": "Economy"
+  },
+  {
+    "index": 499,
+    "question": "Which animal is famous for carrying water in its body?",
+    "options": ["Frog", "Camel", "Horse", "Elephant"],
+    "answer": "Camel",
+    "category": "Zoology"
+  },
+  {
+    "index": 500,
+    "question": "Which is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": "Canberra",
+    "category": "Geography"
+  }
+]
