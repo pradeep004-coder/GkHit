@@ -25,7 +25,7 @@ export default function Home() {
   const handleStart = async () => {
     setIsQuestLoading(true);
 
-    await fetch("http://localhost:8222/api/quiz_data")
+    await fetch("https://gkhit.onrender.com/api/quiz_data")
       .then(response => response.json())
       .then(data => {
         if (data) setQuizQuestions(Array.isArray(data) ? data : [data]);
@@ -64,7 +64,7 @@ export default function Home() {
           if (!isResultSending) {
             setIsResultSending(true);
 
-            fetch("http://localhost:8222/api/post_score", { method: "POST", headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ name, score, duration }) })
+            fetch("https://gkhit.onrender.com/api/post_score", { method: "POST", headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ name, score, duration }) })
               .then(async res => {
                 return res.json();
               })
@@ -133,7 +133,7 @@ export default function Home() {
         isLoading={isResultSending}
       />}
       {num === 10 && !isResultSending && <>
-        <QuizEnd score={scoreArr.filter(item => item).length} name={name} duration={Number((Date.now() - startTime) / 1000)} handleReset={handleReset} />
+        <QuizEnd score={scoreArr.filter(item => item).length} duration={Number((Date.now() - startTime) / 1000)} handleReset={handleReset} />
         <Leaderboard name={name} leaderboard={leaderboard} isLoading={isResultSending} />
       </>}
     </>

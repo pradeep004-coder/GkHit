@@ -73,8 +73,6 @@ gkhit/
 │       ├── Leaderboard.jsx   # leaderboard table (fetches from backend)  
 │       └── QuizBody.jsx      # main container, manages state & rendering  
 │
-├── public/
-│   └── quizQuestions.json    # 100 questions, options, answers  
 │
 └── README.md
 ```
