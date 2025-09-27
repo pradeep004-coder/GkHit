@@ -7,7 +7,7 @@ const Leaderboard = ({ name, leaderboard, isLoading }) => {
         const timestamp = new Date(sec * 1000);
         const hours = timestamp.getUTCHours();
         const minutes = timestamp.getUTCMinutes();
-        const seconds = Math.floor(timestamp / 1000);
+        const seconds = Math.floor(timestamp / 1000) % 60;
         return (!hours ? "" : (hours < 10 ? `0${hours} : ` : `${hours} : `))
             + (minutes < 10 ? `0${minutes} : ` : `${minutes} : `)
             + (seconds < 10 ? "0" + seconds : seconds);
