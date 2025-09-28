@@ -68,50 +68,56 @@ app.get('/api/quiz_data', async (req, res) => {
 });
 
 app.post('/api/post_score', async (req, res) => {
-  try {
-    const { name, score, duration } = req.body;
+    try {
+        const needed = 10;
+        const { name, score, duration } = req.body;
 
-    if (!name || score == null || duration == null) {
-      return res
-        .status(400)
-        .json({ message: "Missing required fields", success: false });
+        if (!name || score == null || duration == null) {
+            return res.status(400).json({ message: "Missing required fields", success: false });
+        }
+
+        let leaderboard = await leaderModel.find().sort({ score: -1, duration: 1 }).limit(needed);
+        const user = await leaderModel.findOne({ name });
+
+        // If user exists → update if improved
+        if (user) {
+            if (score > user.score || (score === user.score && duration < user.duration)) {
+                await leaderModel.findByIdAndUpdate(user._id, { score, duration });
+                leaderboard = await leaderModel.find().sort({ score: -1, duration: 1 }).limit(needed);
+                return res.status(201).json({ leaderboard, message: "Rank improved", success: true });
+            } else {
+                leaderboard = await leaderModel.find().sort({ score: -1, duration: 1 }).limit(needed);
+                return res.status(200).json({ leaderboard, message: "Rank not improved", success: true });
+            }
+        }
+
+        // If user does not exist
+        if (leaderboard.length < needed) {
+            const newEntry = new leaderModel({ name, score, duration });
+            await newEntry.save();
+            leaderboard = await leaderModel.find().sort({ score: -1, duration: 1 }).limit(needed);
+            return res.status(201).json({ leaderboard, message: "New user added!", success: true });
+        } else {
+            // Leaderboard full → check against lowest
+            const lowest = leaderboard[leaderboard.length - 1];
+
+            if (score > lowest.score || (score === lowest.score && duration < lowest.duration)) {
+                const newEntry = new leaderModel({ name, score, duration });
+                await newEntry.save();
+                leaderboard = await leaderModel.find().sort({ score: -1, duration: 1 }).limit(needed);
+                return res.status(201).json({ leaderboard, message: "New user added!", success: true });
+            } else {
+                res.status(200).json({ leaderboard, message: "Could not rank", success: true });
+                const newEntry = new leaderModel({ name, score, duration });
+                await newEntry.save();
+                return;
+            }
+        }
+    } catch (error) {
+        console.error(error);
+        return res.status(500).json({ message: "Internal server error, post failed!!!", success: false });
     }
-
-    console.log("Everything seems ok...");
-
-    // Find user by name
-    let user = await leaderModel.findOne({ name });
-
-    if (user) {
-      // Update only if better
-      if (score > user.score || (score === user.score && duration < user.duration)) {
-        await leaderModel.findByIdAndUpdate(user._id, { score, duration });
-        console.log(`User ${name} improved score/duration`);
-      } else {
-        console.log(`User ${name} did not improve`);
-      }
-    } else {
-      // New user → just insert
-      const newUser = new leaderModel({ name, score, duration });
-      await newUser.save();
-      console.log(`New user ${name} added`);
-    }
-
-    // Always return top 10 leaderboard
-    const leaderboard = await leaderModel.find().sort({ score: -1, duration: 1 }).limit(10);
-
-    return res.status(200).json({
-      leaderboard,
-      message: user ? "Existing user processed" : "New user added",
-      success: true,
-    });
-
-  } catch (error) {
-    console.error(error);
-    return res
-      .status(500)
-      .json({ message: "Internal server error, post failed!!!", success: false });
-  }
 });
+
 
 app.listen(process.env.PORT);
