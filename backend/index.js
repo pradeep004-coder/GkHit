@@ -85,28 +85,18 @@ app.post('/api/post_score', async (req, res) => {
 
         if (!user) {
             if (leaderboard.length === needed) {
-                const lowest = leaderboard[leaderboard.length - 1];
-                if (score > lowest.score || (score === lowest.score && duration < lowest.duration)) {
-                    await leaderModel.findByIdAndUpdate(lowest._id, { name, score, duration });
-                    const updated = await leaderModel.find().sort({ score: -1, duration: 1 });
-                    return res.status(200).json({ leaderboard: updated, message: 'New user added!', success: true })
-                } else return res.status(200).json({ leaderboard, message: 'Could not rank', success: true });
-            } else {
-                // If leaderboard is not full empty, create new user
-                const newUser = new leaderModel({ name, score, duration });
-                leaderboard.push(newUser);
-                leaderboard.sort((a, b) => {
-                    if (b.score !== a.score) return b.score - a.score;
-                    return a.duration - b.duration
-                });
-                await newUser.save();
-                return res.status(201).json({ leaderboard, message: 'New user added!', success: true });
+                const lowest = leaderboard[leaderboard.length -1];
+                const message = (score > lowest.score || (score === lowest.score && duration < lowest.duration)) ? "New user added!" : "Could not rank";
+                    const newEntry = new leaderModel({ name, score, duration });
+                    await newEntry.save();
+                    const updated = await leaderModel.find().sort({ score: -1, duration: 1 }).limit(10);
+                    return res.status(201).json({ leaderboard: updated, message: meassage, success: true })
             }
         }
         if (score > user.score || (score === user.score && duration < user.duration)) {
-            console.log("Adding new entry");
+            console.log("Replacing an entry");
              await leaderModel.findByIdAndUpdate(user._id, { score, duration });
-            const updated = await leaderModel.find().sort({ score: -1, duration: 1 })
+            const updated = await leaderModel.find().sort({ score: -1, duration: 1 }).limit(10);
             console.log("New entry added.");
             return res.status(201).json({ leaderboard: updated, message: 'Rank improved', success: true });
         }
