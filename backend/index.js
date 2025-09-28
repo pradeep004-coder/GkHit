@@ -85,7 +85,7 @@ app.post('/api/post_score', async (req, res) => {
 
         if (!user) {
             if (leaderboard.length === needed) {
-                const lowest = leaderboard[leaderboard.length -1];
+                const lowest = leaderboard[9];
                 const message = (score > lowest.score || (score === lowest.score && duration < lowest.duration)) ? "New user added!" : "Could not rank";
                     const newEntry = new leaderModel({ name, score, duration });
                     await newEntry.save();
